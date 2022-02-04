@@ -1,0 +1,5544 @@
+fileFormatVersion: 2
+guid: 5e92e4381a92d5649bd2246f7decdb7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1769429448931828106
+    second: Battle Backgrounds_0
+  - first:
+      213: -4732131389061371210
+    second: Battle Backgrounds_1
+  - first:
+      213: -4277343822309770070
+    second: Battle Backgrounds_2
+  - first:
+      213: -657182110463708883
+    second: Battle Backgrounds_3
+  - first:
+      213: -1827526445838835693
+    second: Battle Backgrounds_4
+  - first:
+      213: 4422032505096542742
+    second: Battle Backgrounds_5
+  - first:
+      213: 2754896833546307751
+    second: Battle Backgrounds_6
+  - first:
+      213: 1106511937541109406
+    second: Battle Backgrounds_7
+  - first:
+      213: 5627729976014493891
+    second: Battle Backgrounds_8
+  - first:
+      213: 560493919683478708
+    second: Battle Backgrounds_9
+  - first:
+      213: 4463900163318786688
+    second: Battle Backgrounds_10
+  - first:
+      213: 5237200589228584036
+    second: Battle Backgrounds_11
+  - first:
+      213: 4668144616907170614
+    second: Battle Backgrounds_12
+  - first:
+      213: 9056444590351782283
+    second: Battle Backgrounds_13
+  - first:
+      213: -5394503266477377019
+    second: Battle Backgrounds_14
+  - first:
+      213: -2567325491231914466
+    second: Battle Backgrounds_15
+  - first:
+      213: -6891217761088744585
+    second: Battle Backgrounds_16
+  - first:
+      213: -629722231662176578
+    second: Battle Backgrounds_17
+  - first:
+      213: 4715017219275358104
+    second: Battle Backgrounds_18
+  - first:
+      213: 673733987910714988
+    second: Battle Backgrounds_19
+  - first:
+      213: 5583429490744396804
+    second: Battle Backgrounds_20
+  - first:
+      213: -4528190574712782680
+    second: Battle Backgrounds_21
+  - first:
+      213: 8433409083992274014
+    second: Battle Backgrounds_22
+  - first:
+      213: -6028363629922017602
+    second: Battle Backgrounds_23
+  - first:
+      213: 8417692700044275148
+    second: Battle Backgrounds_24
+  - first:
+      213: 9095859546998686422
+    second: Battle Backgrounds_25
+  - first:
+      213: -2486371628121858974
+    second: Battle Backgrounds_26
+  - first:
+      213: -6143402205736619804
+    second: Battle Backgrounds_27
+  - first:
+      213: 2503802146852722562
+    second: Battle Backgrounds_28
+  - first:
+      213: 2071352113908764390
+    second: Battle Backgrounds_29
+  - first:
+      213: 473988383534335703
+    second: Battle Backgrounds_30
+  - first:
+      213: -1202500367766782541
+    second: Battle Backgrounds_31
+  - first:
+      213: -2431808000449816356
+    second: Battle Backgrounds_32
+  - first:
+      213: 3852782160805805897
+    second: Battle Backgrounds_33
+  - first:
+      213: -5192189819822861658
+    second: Battle Backgrounds_34
+  - first:
+      213: 5965186967695454006
+    second: Battle Backgrounds_35
+  - first:
+      213: 3053787429459024584
+    second: Battle Backgrounds_36
+  - first:
+      213: -3605987094828976593
+    second: Battle Backgrounds_37
+  - first:
+      213: 8727207585841653009
+    second: Battle Backgrounds_38
+  - first:
+      213: 7690334898038617899
+    second: Battle Backgrounds_39
+  - first:
+      213: -3395471523129205365
+    second: Battle Backgrounds_40
+  - first:
+      213: -710349163102223475
+    second: Battle Backgrounds_41
+  - first:
+      213: 6223391267464921891
+    second: Battle Backgrounds_42
+  - first:
+      213: 6258705971412561022
+    second: Battle Backgrounds_43
+  - first:
+      213: -8172663435498109585
+    second: Battle Backgrounds_44
+  - first:
+      213: -9069781742290376072
+    second: Battle Backgrounds_45
+  - first:
+      213: 1760063528847218260
+    second: Battle Backgrounds_46
+  - first:
+      213: 2906234453499770206
+    second: Battle Backgrounds_47
+  - first:
+      213: 2647786771927915637
+    second: Battle Backgrounds_48
+  - first:
+      213: -3758392675259398884
+    second: Battle Backgrounds_49
+  - first:
+      213: -8412780074416430959
+    second: Battle Backgrounds_50
+  - first:
+      213: -5797414800205836236
+    second: Battle Backgrounds_51
+  - first:
+      213: -513779510495920060
+    second: Battle Backgrounds_52
+  - first:
+      213: -3993853277918820401
+    second: Battle Backgrounds_53
+  - first:
+      213: 6686770791671960236
+    second: Battle Backgrounds_54
+  - first:
+      213: 4348817908188117698
+    second: Battle Backgrounds_55
+  - first:
+      213: -8341114941989857189
+    second: Battle Backgrounds_56
+  - first:
+      213: -3877172307304358020
+    second: Battle Backgrounds_57
+  - first:
+      213: -2085465088278710071
+    second: Battle Backgrounds_58
+  - first:
+      213: -7254757828474509585
+    second: Battle Backgrounds_59
+  - first:
+      213: 4016429384293931883
+    second: Battle Backgrounds_60
+  - first:
+      213: -6896629579351901816
+    second: Battle Backgrounds_61
+  - first:
+      213: -2530687528959593051
+    second: Battle Backgrounds_62
+  - first:
+      213: 6053470975664994439
+    second: Battle Backgrounds_63
+  - first:
+      213: -5712599525247149058
+    second: Battle Backgrounds_64
+  - first:
+      213: -4044891274132618220
+    second: Battle Backgrounds_65
+  - first:
+      213: -5648166326655471076
+    second: Battle Backgrounds_66
+  - first:
+      213: -8666749951934049315
+    second: Battle Backgrounds_67
+  - first:
+      213: 6547974510199988677
+    second: Battle Backgrounds_68
+  - first:
+      213: 8694886964212978811
+    second: Battle Backgrounds_69
+  - first:
+      213: -7279727557631341784
+    second: Battle Backgrounds_70
+  - first:
+      213: -2158018644886699895
+    second: Battle Backgrounds_71
+  - first:
+      213: 847850411433301683
+    second: Battle Backgrounds_72
+  - first:
+      213: 8462010072575979165
+    second: Battle Backgrounds_73
+  - first:
+      213: 5978144624679379975
+    second: Battle Backgrounds_74
+  - first:
+      213: -6437509579176907446
+    second: Battle Backgrounds_75
+  - first:
+      213: -5224595113345513724
+    second: Battle Backgrounds_76
+  - first:
+      213: -308271763537535938
+    second: Battle Backgrounds_77
+  - first:
+      213: 136752169460553630
+    second: Battle Backgrounds_78
+  - first:
+      213: -3629509677587849506
+    second: Battle Backgrounds_79
+  - first:
+      213: -6695967471092401535
+    second: Battle Backgrounds_80
+  - first:
+      213: 6098851328808636446
+    second: Battle Backgrounds_81
+  - first:
+      213: -7854567121176906167
+    second: Battle Backgrounds_82
+  - first:
+      213: -6211858729085100804
+    second: Battle Backgrounds_83
+  - first:
+      213: -1948468711945194396
+    second: Battle Backgrounds_84
+  - first:
+      213: -8580875871853243844
+    second: Battle Backgrounds_85
+  - first:
+      213: 4095509923545045746
+    second: Battle Backgrounds_86
+  - first:
+      213: 5506748625428420767
+    second: Battle Backgrounds_87
+  - first:
+      213: -1457868147944711066
+    second: Battle Backgrounds_88
+  - first:
+      213: 242497976288126508
+    second: Battle Backgrounds_89
+  - first:
+      213: 5279782220489484646
+    second: Battle Backgrounds_90
+  - first:
+      213: -8782031076842580482
+    second: Battle Backgrounds_91
+  - first:
+      213: 8663347207989717413
+    second: Battle Backgrounds_92
+  - first:
+      213: -6761254511423080028
+    second: Battle Backgrounds_93
+  - first:
+      213: 8798494346502043558
+    second: Battle Backgrounds_94
+  - first:
+      213: -4445239025930372594
+    second: Battle Backgrounds_95
+  - first:
+      213: -1850773607637094395
+    second: Battle Backgrounds_96
+  - first:
+      213: 433189607696937531
+    second: Battle Backgrounds_97
+  - first:
+      213: 1458986994546313246
+    second: Battle Backgrounds_98
+  - first:
+      213: 2962301330452164757
+    second: Battle Backgrounds_99
+  - first:
+      213: 3536693405716380957
+    second: Battle Backgrounds_100
+  - first:
+      213: -1178586304829767785
+    second: Battle Backgrounds_101
+  - first:
+      213: -398248905029425668
+    second: Battle Backgrounds_102
+  - first:
+      213: -2051263142628960963
+    second: Battle Backgrounds_103
+  - first:
+      213: -3440164534107584367
+    second: Battle Backgrounds_104
+  - first:
+      213: 3474217562160065111
+    second: Battle Backgrounds_105
+  - first:
+      213: -8393192361395763574
+    second: Battle Backgrounds_106
+  - first:
+      213: -29414630862240741
+    second: Battle Backgrounds_107
+  - first:
+      213: -321339260026829475
+    second: Battle Backgrounds_108
+  - first:
+      213: 4217352664820046733
+    second: Battle Backgrounds_109
+  - first:
+      213: 3249939081037798740
+    second: Battle Backgrounds_110
+  - first:
+      213: 1718349404126543643
+    second: Battle Backgrounds_111
+  - first:
+      213: -343898268850503346
+    second: Battle Backgrounds_112
+  - first:
+      213: -2538783285551702912
+    second: Battle Backgrounds_113
+  - first:
+      213: -3516793259722354286
+    second: Battle Backgrounds_114
+  - first:
+      213: 7333121778218126097
+    second: Battle Backgrounds_115
+  - first:
+      213: 3693270635301313718
+    second: Battle Backgrounds_116
+  - first:
+      213: 6804142096151159362
+    second: Battle Backgrounds_117
+  - first:
+      213: 6532723578011638851
+    second: Battle Backgrounds_118
+  - first:
+      213: 7213092597622465173
+    second: Battle Backgrounds_119
+  - first:
+      213: 5705779019349415431
+    second: Battle Backgrounds_120
+  - first:
+      213: 8744651492953465680
+    second: Battle Backgrounds_121
+  - first:
+      213: 2430861882345872617
+    second: Battle Backgrounds_122
+  - first:
+      213: -1396624663919802544
+    second: Battle Backgrounds_123
+  - first:
+      213: 8357564207675985903
+    second: Battle Backgrounds_124
+  - first:
+      213: 1516905497843390448
+    second: Battle Backgrounds_125
+  - first:
+      213: -2736499388761754511
+    second: Battle Backgrounds_126
+  - first:
+      213: 3442883336016404413
+    second: Battle Backgrounds_127
+  - first:
+      213: -2644833669340500447
+    second: Battle Backgrounds_128
+  - first:
+      213: 2823174250096244669
+    second: Battle Backgrounds_129
+  - first:
+      213: -459128364560815546
+    second: Battle Backgrounds_130
+  - first:
+      213: 359693485336775281
+    second: Battle Backgrounds_131
+  - first:
+      213: 7184826862161231532
+    second: Battle Backgrounds_132
+  - first:
+      213: 4018386208042872593
+    second: Battle Backgrounds_133
+  - first:
+      213: -3308955709242879861
+    second: Battle Backgrounds_134
+  - first:
+      213: 8812555322933365832
+    second: Battle Backgrounds_135
+  - first:
+      213: 3543813486382849775
+    second: Battle Backgrounds_136
+  - first:
+      213: -6028525148620089105
+    second: Battle Backgrounds_137
+  - first:
+      213: -6124856564800616269
+    second: Battle Backgrounds_138
+  - first:
+      213: -8636662841988815510
+    second: Battle Backgrounds_139
+  - first:
+      213: -8966091963232653181
+    second: Battle Backgrounds_140
+  - first:
+      213: -5889542119996784573
+    second: Battle Backgrounds_141
+  - first:
+      213: -1363891525481993350
+    second: Battle Backgrounds_142
+  - first:
+      213: -578646641302547028
+    second: Battle Backgrounds_143
+  - first:
+      213: 3314753487872535902
+    second: Battle Backgrounds_144
+  - first:
+      213: 5448745295376637258
+    second: Battle Backgrounds_145
+  - first:
+      213: -4902356647954126110
+    second: Battle Backgrounds_146
+  - first:
+      213: -1478910558007145176
+    second: Battle Backgrounds_147
+  - first:
+      213: 9143435076336348897
+    second: Battle Backgrounds_148
+  - first:
+      213: -4170552823025112248
+    second: Battle Backgrounds_149
+  - first:
+      213: -6630169835201306269
+    second: Battle Backgrounds_150
+  - first:
+      213: 7543097248999363061
+    second: Battle Backgrounds_151
+  - first:
+      213: 5700402370712853275
+    second: Battle Backgrounds_152
+  - first:
+      213: -1427470435091951841
+    second: Battle Backgrounds_153
+  - first:
+      213: -7526632151794203564
+    second: Battle Backgrounds_154
+  - first:
+      213: 6661391225172882439
+    second: Battle Backgrounds_155
+  - first:
+      213: 2512893328007969636
+    second: Battle Backgrounds_156
+  - first:
+      213: 5753052815714616061
+    second: Battle Backgrounds_157
+  - first:
+      213: 7543635661567349801
+    second: Battle Backgrounds_158
+  - first:
+      213: 8901195967829939750
+    second: Battle Backgrounds_159
+  - first:
+      213: -6305794608944084869
+    second: Battle Backgrounds_160
+  - first:
+      213: -3564097341837855140
+    second: Battle Backgrounds_161
+  - first:
+      213: 3754984172848907854
+    second: Battle Backgrounds_162
+  - first:
+      213: 8272005014569733620
+    second: Battle Backgrounds_163
+  - first:
+      213: -2345457916648964476
+    second: Battle Backgrounds_164
+  - first:
+      213: 5940157194816742444
+    second: Battle Backgrounds_165
+  - first:
+      213: 5645132747654939997
+    second: Battle Backgrounds_166
+  - first:
+      213: -2008794944825004794
+    second: Battle Backgrounds_167
+  - first:
+      213: 5213551792797605660
+    second: Battle Backgrounds_168
+  - first:
+      213: -8037884472534660016
+    second: Battle Backgrounds_169
+  - first:
+      213: 3818432216110583149
+    second: Battle Backgrounds_170
+  - first:
+      213: -2483747344066028066
+    second: Battle Backgrounds_171
+  - first:
+      213: -4208134414750936905
+    second: Battle Backgrounds_172
+  - first:
+      213: -4757378380711905874
+    second: Battle Backgrounds_173
+  - first:
+      213: -6404663230823994068
+    second: Battle Backgrounds_174
+  - first:
+      213: 1669572382275594998
+    second: Battle Backgrounds_175
+  - first:
+      213: -942983427249749463
+    second: Battle Backgrounds_176
+  - first:
+      213: -6520213487626232220
+    second: Battle Backgrounds_177
+  - first:
+      213: -7256760625785237418
+    second: Battle Backgrounds_178
+  - first:
+      213: 7614074220369580436
+    second: Battle Backgrounds_179
+  - first:
+      213: -8332692391044914907
+    second: Battle Backgrounds_180
+  - first:
+      213: 4863997525401976975
+    second: Battle Backgrounds_181
+  - first:
+      213: -4032415088537136600
+    second: Battle Backgrounds_182
+  - first:
+      213: 5048153556774821663
+    second: Battle Backgrounds_183
+  - first:
+      213: -3795825258465699756
+    second: Battle Backgrounds_184
+  - first:
+      213: -3966831346043624911
+    second: Battle Backgrounds_185
+  - first:
+      213: 2491553365679367320
+    second: Battle Backgrounds_186
+  - first:
+      213: 4548090793311060840
+    second: Battle Backgrounds_187
+  - first:
+      213: -3412374388641690023
+    second: Battle Backgrounds_188
+  - first:
+      213: 3864439796302106382
+    second: Battle Backgrounds_189
+  - first:
+      213: -2907457545232827657
+    second: Battle Backgrounds_190
+  - first:
+      213: -1044163458217417036
+    second: Battle Backgrounds_191
+  - first:
+      213: -7494576511506387455
+    second: Battle Backgrounds_192
+  - first:
+      213: -3788552452460839153
+    second: Battle Backgrounds_193
+  - first:
+      213: -329150202297120030
+    second: Battle Backgrounds_194
+  - first:
+      213: -5932371138308075103
+    second: Battle Backgrounds_195
+  - first:
+      213: -2231710266109496350
+    second: Battle Backgrounds_196
+  - first:
+      213: -3186178053499978908
+    second: Battle Backgrounds_197
+  - first:
+      213: -3680301899727560199
+    second: Battle Backgrounds_198
+  - first:
+      213: -8018314283932200299
+    second: Battle Backgrounds_199
+  - first:
+      213: -5402010527968826670
+    second: Battle Backgrounds_200
+  - first:
+      213: 8573950978266584908
+    second: Battle Backgrounds_201
+  - first:
+      213: 4923318067201110135
+    second: Battle Backgrounds_202
+  - first:
+      213: 2078869617628701364
+    second: Battle Backgrounds_203
+  - first:
+      213: 1142375847701182256
+    second: Battle Backgrounds_204
+  - first:
+      213: -2928885960601293797
+    second: Battle Backgrounds_205
+  - first:
+      213: 1809242593533829467
+    second: Battle Backgrounds_206
+  - first:
+      213: -4990766138483036319
+    second: Battle Backgrounds_207
+  - first:
+      213: 4952008739113414688
+    second: Battle Backgrounds_208
+  - first:
+      213: -9124293283660766122
+    second: Battle Backgrounds_209
+  - first:
+      213: -5860000601171970214
+    second: Battle Backgrounds_210
+  - first:
+      213: 7154512900835739986
+    second: Battle Backgrounds_211
+  - first:
+      213: 5210166849038004654
+    second: Battle Backgrounds_212
+  - first:
+      213: -1053939693132020105
+    second: Battle Backgrounds_213
+  - first:
+      213: -8083749620944508807
+    second: Battle Backgrounds_214
+  - first:
+      213: -7178701830777463574
+    second: Battle Backgrounds_215
+  - first:
+      213: -8017254747611811136
+    second: Battle Backgrounds_216
+  - first:
+      213: 454821377781822339
+    second: Battle Backgrounds_217
+  - first:
+      213: -4322408313425466654
+    second: Battle Backgrounds_218
+  - first:
+      213: 8979096556013477240
+    second: Battle Backgrounds_219
+  - first:
+      213: -1409520947434827057
+    second: Battle Backgrounds_220
+  - first:
+      213: -4151111567096381878
+    second: Battle Backgrounds_221
+  - first:
+      213: -81720794750986150
+    second: Battle Backgrounds_222
+  - first:
+      213: 6197284779235469086
+    second: Battle Backgrounds_223
+  - first:
+      213: 404920845391857497
+    second: Battle Backgrounds_224
+  - first:
+      213: 6742517865737584318
+    second: Battle Backgrounds_225
+  - first:
+      213: 2110329367621370367
+    second: Battle Backgrounds_226
+  - first:
+      213: -8858899921417157557
+    second: Battle Backgrounds_227
+  - first:
+      213: -4774391392629285967
+    second: Battle Backgrounds_228
+  - first:
+      213: 9221704362268977896
+    second: Battle Backgrounds_229
+  - first:
+      213: -2664416551967504095
+    second: Battle Backgrounds_230
+  - first:
+      213: 6401052895995684419
+    second: Battle Backgrounds_231
+  - first:
+      213: -3490081216823863539
+    second: Battle Backgrounds_232
+  - first:
+      213: -8892167971821121141
+    second: Battle Backgrounds_233
+  - first:
+      213: 4984566971562934709
+    second: Battle Backgrounds_234
+  - first:
+      213: -6581666721995343450
+    second: Battle Backgrounds_235
+  - first:
+      213: 6227102680931013013
+    second: Battle Backgrounds_236
+  - first:
+      213: 5578369430835316681
+    second: Battle Backgrounds_237
+  - first:
+      213: 4123025958628609836
+    second: Battle Backgrounds_238
+  - first:
+      213: 3971179530890778755
+    second: Battle Backgrounds_239
+  - first:
+      213: 1738782963684551827
+    second: Battle Backgrounds_240
+  - first:
+      213: 4635374470747926952
+    second: Battle Backgrounds_241
+  - first:
+      213: -6162052872104421249
+    second: Battle Backgrounds_242
+  - first:
+      213: 4562486789363787218
+    second: Battle Backgrounds_243
+  - first:
+      213: 3460396068729025269
+    second: Battle Backgrounds_244
+  - first:
+      213: -8593994723106562291
+    second: Battle Backgrounds_245
+  - first:
+      213: -694102072373691336
+    second: Battle Backgrounds_246
+  - first:
+      213: 7339708151586532062
+    second: Battle Backgrounds_247
+  - first:
+      213: -56337807773673838
+    second: Battle Backgrounds_248
+  - first:
+      213: -3593191796627975075
+    second: Battle Backgrounds_249
+  - first:
+      213: 1835225469505355398
+    second: Battle Backgrounds_250
+  - first:
+      213: -2834861691535289026
+    second: Battle Backgrounds_251
+  - first:
+      213: -7664846198227633750
+    second: Battle Backgrounds_252
+  - first:
+      213: -5786625028220698562
+    second: Battle Backgrounds_253
+  - first:
+      213: 6737143125053019615
+    second: Battle Backgrounds_254
+  - first:
+      213: 5381701052005244094
+    second: Battle Backgrounds_255
+  - first:
+      213: 6576133171146853064
+    second: Battle Backgrounds_256
+  - first:
+      213: -1102231759994479876
+    second: Battle Backgrounds_257
+  - first:
+      213: -8594792240631245113
+    second: Battle Backgrounds_258
+  - first:
+      213: -2635327419399958072
+    second: Battle Backgrounds_259
+  - first:
+      213: -1502221421665508379
+    second: Battle Backgrounds_260
+  - first:
+      213: 971955019585708634
+    second: Battle Backgrounds_261
+  - first:
+      213: 5835757747152219598
+    second: Battle Backgrounds_262
+  - first:
+      213: -3350749575516880250
+    second: Battle Backgrounds_263
+  - first:
+      213: 5301557433516896021
+    second: Battle Backgrounds_264
+  - first:
+      213: -2324199784298167002
+    second: Battle Backgrounds_265
+  - first:
+      213: -289598464506224647
+    second: Battle Backgrounds_266
+  - first:
+      213: 1320292252914145762
+    second: Battle Backgrounds_267
+  - first:
+      213: -3511415413608624348
+    second: Battle Backgrounds_268
+  - first:
+      213: -7412324387164953760
+    second: Battle Backgrounds_269
+  - first:
+      213: -9087419423649287044
+    second: Battle Backgrounds_270
+  - first:
+      213: -7281689505868291960
+    second: Battle Backgrounds_271
+  - first:
+      213: 1713401039709891967
+    second: Battle Backgrounds_272
+  - first:
+      213: 1096592065762877301
+    second: Battle Backgrounds_273
+  - first:
+      213: -7776450213704552286
+    second: Battle Backgrounds_274
+  - first:
+      213: -2331746023930503237
+    second: Battle Backgrounds_275
+  - first:
+      213: -5469726129418502503
+    second: Battle Backgrounds_276
+  - first:
+      213: 5718029607870155176
+    second: Battle Backgrounds_277
+  - first:
+      213: -6592786501057425282
+    second: Battle Backgrounds_278
+  - first:
+      213: -5601755397912465983
+    second: Battle Backgrounds_279
+  - first:
+      213: -7575117389921131021
+    second: Battle Backgrounds_280
+  - first:
+      213: 8851314013136769141
+    second: Battle Backgrounds_281
+  - first:
+      213: 2840845985778422569
+    second: Battle Backgrounds_282
+  - first:
+      213: -4110691587705800608
+    second: Battle Backgrounds_283
+  - first:
+      213: 632705420031953648
+    second: Battle Backgrounds_284
+  - first:
+      213: -7814997887458670795
+    second: Battle Backgrounds_285
+  - first:
+      213: 8996732532197073276
+    second: Battle Backgrounds_286
+  - first:
+      213: 5571337533033239537
+    second: Battle Backgrounds_287
+  - first:
+      213: -5635566255321710624
+    second: Battle Backgrounds_288
+  - first:
+      213: -1855480535924752064
+    second: Battle Backgrounds_289
+  - first:
+      213: 4607362617915780803
+    second: Battle Backgrounds_290
+  - first:
+      213: 1919620243959269143
+    second: Battle Backgrounds_291
+  - first:
+      213: -8900977337119836219
+    second: Battle Backgrounds_292
+  - first:
+      213: 357531407034807908
+    second: Battle Backgrounds_293
+  - first:
+      213: -185842703072425603
+    second: Battle Backgrounds_294
+  - first:
+      213: 7247993233206758099
+    second: Battle Backgrounds_295
+  - first:
+      213: 8773426552179487167
+    second: Battle Backgrounds_296
+  - first:
+      213: -2430804024284491141
+    second: Battle Backgrounds_297
+  - first:
+      213: -2472472750219397839
+    second: Battle Backgrounds_298
+  - first:
+      213: -3818547947731357864
+    second: Battle Backgrounds_299
+  - first:
+      213: -7488017569741231558
+    second: Battle Backgrounds_300
+  - first:
+      213: 4105984564880507618
+    second: Battle Backgrounds_301
+  - first:
+      213: 6358245819338126270
+    second: Battle Backgrounds_302
+  - first:
+      213: 7505640409777041703
+    second: Battle Backgrounds_303
+  - first:
+      213: -7727157396152780834
+    second: Battle Backgrounds_304
+  - first:
+      213: -7694417384681183874
+    second: Battle Backgrounds_305
+  - first:
+      213: -1840937274509887805
+    second: Battle Backgrounds_306
+  - first:
+      213: -4830486551460102138
+    second: Battle Backgrounds_307
+  - first:
+      213: 5961044539764311099
+    second: Battle Backgrounds_308
+  - first:
+      213: 2081398290281511504
+    second: Battle Backgrounds_309
+  - first:
+      213: 3131465730870347510
+    second: Battle Backgrounds_310
+  - first:
+      213: 3921120226938432989
+    second: Battle Backgrounds_311
+  - first:
+      213: -1834194459768304392
+    second: Battle Backgrounds_312
+  - first:
+      213: 3513822589622785253
+    second: Battle Backgrounds_313
+  - first:
+      213: -2031577702731571398
+    second: Battle Backgrounds_314
+  - first:
+      213: 381634757679757822
+    second: Battle Backgrounds_315
+  - first:
+      213: 1953361721719435812
+    second: Battle Backgrounds_316
+  - first:
+      213: 9215536137562040586
+    second: Battle Backgrounds_317
+  - first:
+      213: 2288924128251260380
+    second: Battle Backgrounds_318
+  - first:
+      213: 1032696508692602366
+    second: Battle Backgrounds_319
+  - first:
+      213: -928697988590760955
+    second: Battle Backgrounds_320
+  - first:
+      213: -2690105534696198698
+    second: Battle Backgrounds_321
+  - first:
+      213: 6490645320267283035
+    second: Battle Backgrounds_322
+  - first:
+      213: -6751595253764170572
+    second: Battle Backgrounds_323
+  - first:
+      213: -1363885416558570288
+    second: Battle Backgrounds_324
+  - first:
+      213: -6431809744690033267
+    second: Battle Backgrounds_325
+  - first:
+      213: -4795405935627163992
+    second: Battle Backgrounds_326
+  - first:
+      213: -6978774210666123864
+    second: Battle Backgrounds_327
+  - first:
+      213: -1256252152795315846
+    second: Battle Backgrounds_328
+  - first:
+      213: 4193008339912707425
+    second: Battle Backgrounds_329
+  - first:
+      213: -6330258728161550364
+    second: Battle Backgrounds_330
+  - first:
+      213: -6967307296893298029
+    second: Battle Backgrounds_331
+  - first:
+      213: 4004676478004304563
+    second: Battle Backgrounds_332
+  - first:
+      213: -3873176664746688378
+    second: Battle Backgrounds_333
+  - first:
+      213: -7400500924131235076
+    second: Battle Backgrounds_334
+  - first:
+      213: 4200214104639185739
+    second: Battle Backgrounds_335
+  - first:
+      213: -4723057197868093802
+    second: Battle Backgrounds_336
+  - first:
+      213: 4224606419422849896
+    second: Battle Backgrounds_337
+  - first:
+      213: 8198662516862847218
+    second: Battle Backgrounds_338
+  - first:
+      213: 5754218984704059107
+    second: Battle Backgrounds_339
+  - first:
+      213: -7255454331598087024
+    second: Battle Backgrounds_340
+  - first:
+      213: -3855487300532324885
+    second: Battle Backgrounds_341
+  - first:
+      213: 276372694353362801
+    second: Battle Backgrounds_342
+  - first:
+      213: -8322431860777082405
+    second: Battle Backgrounds_343
+  - first:
+      213: 8057876391273426139
+    second: Battle Backgrounds_344
+  - first:
+      213: -6376698982788548660
+    second: Battle Backgrounds_345
+  - first:
+      213: -247010860857934176
+    second: Battle Backgrounds_346
+  - first:
+      213: -7473813844675738540
+    second: Battle Backgrounds_347
+  - first:
+      213: 4744610934898076123
+    second: Battle Backgrounds_348
+  - first:
+      213: -3854277100384783739
+    second: Battle Backgrounds_349
+  - first:
+      213: -6096343430756075716
+    second: Battle Backgrounds_350
+  - first:
+      213: -7633421833759231022
+    second: Battle Backgrounds_351
+  - first:
+      213: -2864626315619404475
+    second: Battle Backgrounds_352
+  - first:
+      213: -562731315672571867
+    second: Battle Backgrounds_353
+  - first:
+      213: -3941097865928501834
+    second: Battle Backgrounds_354
+  - first:
+      213: 8812774002572823124
+    second: Battle Backgrounds_355
+  - first:
+      213: -1477820684172924101
+    second: Battle Backgrounds_356
+  - first:
+      213: 7194646136892926187
+    second: Battle Backgrounds_357
+  - first:
+      213: 4967849598664380394
+    second: Battle Backgrounds_358
+  - first:
+      213: 3074742478961715404
+    second: Battle Backgrounds_359
+  - first:
+      213: -3470597697498789241
+    second: Battle Backgrounds_360
+  - first:
+      213: -9083582898206663423
+    second: Battle Backgrounds_361
+  - first:
+      213: 8618721095960134027
+    second: Battle Backgrounds_362
+  - first:
+      213: -4030078417946387951
+    second: Battle Backgrounds_363
+  - first:
+      213: 913151164700856777
+    second: Battle Backgrounds_364
+  - first:
+      213: -1533149520351547408
+    second: Battle Backgrounds_365
+  - first:
+      213: 5819390295164097910
+    second: Battle Backgrounds_366
+  - first:
+      213: -7346886429317789531
+    second: Battle Backgrounds_367
+  - first:
+      213: -3848175044841849628
+    second: Battle Backgrounds_368
+  - first:
+      213: -922236152497139805
+    second: Battle Backgrounds_369
+  - first:
+      213: -7156642565994201046
+    second: Battle Backgrounds_370
+  - first:
+      213: 9049190773964040655
+    second: Battle Backgrounds_371
+  - first:
+      213: 831536651904023364
+    second: Battle Backgrounds_372
+  - first:
+      213: -6456417019059678475
+    second: Battle Backgrounds_373
+  - first:
+      213: 5289836491862049337
+    second: Battle Backgrounds_374
+  - first:
+      213: 5241325555870977378
+    second: Battle Backgrounds_375
+  - first:
+      213: 5067958692061287916
+    second: Battle Backgrounds_376
+  - first:
+      213: 4112704419425701148
+    second: Battle Backgrounds_377
+  - first:
+      213: 1686145737990261438
+    second: Battle Backgrounds_378
+  - first:
+      213: -7468347155690468893
+    second: Battle Backgrounds_379
+  - first:
+      213: 8666186265573591033
+    second: Battle Backgrounds_380
+  - first:
+      213: -1069120891511462138
+    second: Battle Backgrounds_381
+  - first:
+      213: -1775285579811812303
+    second: Battle Backgrounds_382
+  - first:
+      213: -4930646443533529819
+    second: Battle Backgrounds_383
+  - first:
+      213: 723068849902495615
+    second: Battle Backgrounds_384
+  - first:
+      213: -2425338289040558683
+    second: Battle Backgrounds_385
+  - first:
+      213: -2409931620544479264
+    second: Battle Backgrounds_386
+  - first:
+      213: 3006005645697834518
+    second: Battle Backgrounds_387
+  - first:
+      213: 1147913839311523795
+    second: Battle Backgrounds_388
+  - first:
+      213: 9112057803592757951
+    second: Battle Backgrounds_389
+  - first:
+      213: 2257641075961920003
+    second: Battle Backgrounds_390
+  - first:
+      213: -3523777024353883870
+    second: Battle Backgrounds_391
+  - first:
+      213: 2513811775904588952
+    second: Battle Backgrounds_392
+  - first:
+      213: 7311815218085249097
+    second: Battle Backgrounds_393
+  - first:
+      213: -1377385702010754200
+    second: Battle Backgrounds_394
+  - first:
+      213: 4590068814522139477
+    second: Battle Backgrounds_395
+  - first:
+      213: 4958002349074936357
+    second: Battle Backgrounds_396
+  - first:
+      213: 8319738968590219824
+    second: Battle Backgrounds_397
+  - first:
+      213: 4846399903577382226
+    second: Battle Backgrounds_398
+  - first:
+      213: -2046515780369775003
+    second: Battle Backgrounds_399
+  - first:
+      213: 4862899147388743798
+    second: Battle Backgrounds_400
+  - first:
+      213: 3218987767294797165
+    second: Battle Backgrounds_401
+  - first:
+      213: 6382491747819007541
+    second: Battle Backgrounds_402
+  - first:
+      213: -5809562866125503264
+    second: Battle Backgrounds_403
+  - first:
+      213: 7278806330412279656
+    second: Battle Backgrounds_404
+  - first:
+      213: 1027075731816334914
+    second: Battle Backgrounds_405
+  - first:
+      213: -8837788026659966250
+    second: Battle Backgrounds_406
+  - first:
+      213: -7417523104736420525
+    second: Battle Backgrounds_407
+  - first:
+      213: -1653185888731078570
+    second: Battle Backgrounds_408
+  - first:
+      213: 8096400126752538085
+    second: Battle Backgrounds_409
+  - first:
+      213: 4031385622850011438
+    second: Battle Backgrounds_410
+  - first:
+      213: -3449035227059365242
+    second: Battle Backgrounds_411
+  - first:
+      213: -7523504748930320645
+    second: Battle Backgrounds_412
+  - first:
+      213: 365473583567649716
+    second: Battle Backgrounds_413
+  - first:
+      213: 7138041111981442772
+    second: Battle Backgrounds_414
+  - first:
+      213: -5959442403452254528
+    second: Battle Backgrounds_415
+  - first:
+      213: -3901927064844935302
+    second: Battle Backgrounds_416
+  - first:
+      213: 7270183925464058611
+    second: Battle Backgrounds_417
+  - first:
+      213: -23297226520366382
+    second: Battle Backgrounds_418
+  - first:
+      213: 7240708639485608674
+    second: Battle Backgrounds_419
+  - first:
+      213: 4625207673254141542
+    second: Battle Backgrounds_420
+  - first:
+      213: -719005554056211298
+    second: Battle Backgrounds_421
+  - first:
+      213: -4986534178531524192
+    second: Battle Backgrounds_422
+  - first:
+      213: -3094067440562344732
+    second: Battle Backgrounds_423
+  - first:
+      213: 5295188667598297952
+    second: Battle Backgrounds_424
+  - first:
+      213: 7554221883001420363
+    second: Battle Backgrounds_425
+  - first:
+      213: -839577503088683342
+    second: Battle Backgrounds_426
+  - first:
+      213: 7000229876190852037
+    second: Battle Backgrounds_427
+  - first:
+      213: -9058103699025302440
+    second: Battle Backgrounds_428
+  - first:
+      213: 4894699846073630722
+    second: Battle Backgrounds_429
+  - first:
+      213: 6903575985942875349
+    second: Battle Backgrounds_430
+  - first:
+      213: -6829885286672415317
+    second: Battle Backgrounds_431
+  - first:
+      213: 9171968538381691640
+    second: Battle Backgrounds_432
+  - first:
+      213: -4585655211715025416
+    second: Battle Backgrounds_433
+  - first:
+      213: -7184741929397603672
+    second: Battle Backgrounds_434
+  - first:
+      213: -6147121307110240710
+    second: Battle Backgrounds_435
+  - first:
+      213: 7334389561555255985
+    second: Battle Backgrounds_436
+  - first:
+      213: 4093955912321923391
+    second: Battle Backgrounds_437
+  - first:
+      213: 4402545437581247386
+    second: Battle Backgrounds_438
+  - first:
+      213: 6202671338699974506
+    second: Battle Backgrounds_439
+  - first:
+      213: -8950396530391308742
+    second: Battle Backgrounds_440
+  - first:
+      213: -112319071720845836
+    second: Battle Backgrounds_441
+  - first:
+      213: 9116882411861289253
+    second: Battle Backgrounds_442
+  - first:
+      213: 7085183927980488922
+    second: Battle Backgrounds_443
+  - first:
+      213: 5659136303982784760
+    second: Battle Backgrounds_444
+  - first:
+      213: -2488545691460780956
+    second: Battle Backgrounds_445
+  - first:
+      213: -4683716755778717398
+    second: Battle Backgrounds_446
+  - first:
+      213: 1379993348246061724
+    second: Battle Backgrounds_447
+  - first:
+      213: -5208833172844421470
+    second: Battle Backgrounds_448
+  - first:
+      213: -2938946732887344225
+    second: Battle Backgrounds_449
+  - first:
+      213: 6004851834076639634
+    second: Battle Backgrounds_450
+  - first:
+      213: -7965944044236612755
+    second: Battle Backgrounds_451
+  - first:
+      213: -8288222560257975606
+    second: Battle Backgrounds_452
+  - first:
+      213: 8426799816013549924
+    second: Battle Backgrounds_453
+  - first:
+      213: 1283727632923241789
+    second: Battle Backgrounds_454
+  - first:
+      213: 5918352573346137113
+    second: Battle Backgrounds_455
+  - first:
+      213: -8168212208181912639
+    second: Battle Backgrounds_456
+  - first:
+      213: 5293478625894877483
+    second: Battle Backgrounds_457
+  - first:
+      213: -2461057551541999863
+    second: Battle Backgrounds_458
+  - first:
+      213: -8126707767457262813
+    second: Battle Backgrounds_459
+  - first:
+      213: 2593651283712021131
+    second: Battle Backgrounds_460
+  - first:
+      213: -8530237424078372301
+    second: Battle Backgrounds_461
+  - first:
+      213: 1230220417343819727
+    second: Battle Backgrounds_462
+  - first:
+      213: 8084996125713667480
+    second: Battle Backgrounds_463
+  - first:
+      213: -2755211328808573038
+    second: Battle Backgrounds_464
+  - first:
+      213: -4388892589536301899
+    second: Battle Backgrounds_465
+  - first:
+      213: 9089876195921860174
+    second: Battle Backgrounds_466
+  - first:
+      213: 5337099323489242182
+    second: Battle Backgrounds_467
+  - first:
+      213: -6821632411732200113
+    second: Battle Backgrounds_468
+  - first:
+      213: 9189895403955400844
+    second: Battle Backgrounds_469
+  - first:
+      213: -2705403328855844856
+    second: Battle Backgrounds_470
+  - first:
+      213: 549651017890009272
+    second: Battle Backgrounds_471
+  - first:
+      213: 7979587430978393640
+    second: Battle Backgrounds_472
+  - first:
+      213: -8859254158847202880
+    second: Battle Backgrounds_473
+  - first:
+      213: -9089087280643426278
+    second: Battle Backgrounds_474
+  - first:
+      213: -3107390205339127442
+    second: Battle Backgrounds_475
+  - first:
+      213: -2555711842822546941
+    second: Battle Backgrounds_476
+  - first:
+      213: -361678191213480546
+    second: Battle Backgrounds_477
+  - first:
+      213: -899451755570624447
+    second: Battle Backgrounds_478
+  - first:
+      213: 9199455164696521377
+    second: Battle Backgrounds_479
+  - first:
+      213: 1865312639890773093
+    second: Battle Backgrounds_480
+  - first:
+      213: -690812271198727483
+    second: Battle Backgrounds_481
+  - first:
+      213: 8096849196108799575
+    second: Battle Backgrounds_482
+  - first:
+      213: -8952238686975009542
+    second: Battle Backgrounds_483
+  - first:
+      213: -8367813312858084544
+    second: Battle Backgrounds_484
+  - first:
+      213: 197990947177619715
+    second: Battle Backgrounds_485
+  - first:
+      213: -3660631209973716027
+    second: Battle Backgrounds_486
+  - first:
+      213: -4114170155523603996
+    second: Battle Backgrounds_487
+  - first:
+      213: 127788001533908049
+    second: Battle Backgrounds_488
+  - first:
+      213: -9013338712044669687
+    second: Battle Backgrounds_489
+  - first:
+      213: -7897786624638838348
+    second: Battle Backgrounds_490
+  - first:
+      213: -6035452446462129239
+    second: Battle Backgrounds_491
+  - first:
+      213: 3913338765305788312
+    second: Battle Backgrounds_492
+  - first:
+      213: 5843204559464848146
+    second: Battle Backgrounds_493
+  - first:
+      213: -5235291517143171840
+    second: Battle Backgrounds_494
+  - first:
+      213: 3436427467774805393
+    second: Battle Backgrounds_495
+  - first:
+      213: 8978908626183392996
+    second: Battle Backgrounds_496
+  - first:
+      213: -7296672268122457473
+    second: Battle Backgrounds_497
+  - first:
+      213: -8201797022756639009
+    second: Battle Backgrounds_498
+  - first:
+      213: -746299379459024955
+    second: Battle Backgrounds_499
+  - first:
+      213: -3396595323114265035
+    second: Battle Backgrounds_500
+  - first:
+      213: 5085776555205120967
+    second: Battle Backgrounds_501
+  - first:
+      213: 8538854648625844613
+    second: Battle Backgrounds_502
+  - first:
+      213: 6415565749035478279
+    second: Battle Backgrounds_503
+  - first:
+      213: -8403349107553998112
+    second: Battle Backgrounds_504
+  - first:
+      213: 7607055171834082970
+    second: Battle Backgrounds_505
+  - first:
+      213: 1198024903650372356
+    second: Battle Backgrounds_506
+  - first:
+      213: 3249529824316874488
+    second: Battle Backgrounds_507
+  - first:
+      213: 432412506173232014
+    second: Battle Backgrounds_508
+  - first:
+      213: 7735540761887340351
+    second: Battle Backgrounds_509
+  - first:
+      213: 2988799956373686715
+    second: Battle Backgrounds_510
+  - first:
+      213: 7696519760241385999
+    second: Battle Backgrounds_511
+  - first:
+      213: 6139007414642905553
+    second: Battle Backgrounds_512
+  - first:
+      213: 2453551543478340299
+    second: Battle Backgrounds_513
+  - first:
+      213: 5125455300927125212
+    second: Battle Backgrounds_514
+  - first:
+      213: 8235462216013428884
+    second: Battle Backgrounds_515
+  - first:
+      213: -6467163691213158384
+    second: Battle Backgrounds_516
+  - first:
+      213: -354267107390571042
+    second: Battle Backgrounds_517
+  - first:
+      213: -6932624166958425225
+    second: Battle Backgrounds_518
+  - first:
+      213: -8112870921061423685
+    second: Battle Backgrounds_519
+  - first:
+      213: 238779991751393811
+    second: Battle Backgrounds_520
+  - first:
+      213: -967158210525922428
+    second: Battle Backgrounds_521
+  - first:
+      213: -537780440567557649
+    second: Battle Backgrounds_522
+  - first:
+      213: -8677585789929664621
+    second: Battle Backgrounds_523
+  - first:
+      213: 7851662311109065560
+    second: Battle Backgrounds_524
+  - first:
+      213: 2469375516046006413
+    second: Battle Backgrounds_525
+  - first:
+      213: 8932385619344680137
+    second: Battle Backgrounds_526
+  - first:
+      213: 6473004052759662363
+    second: Battle Backgrounds_527
+  - first:
+      213: -2531879534254178580
+    second: Battle Backgrounds_528
+  - first:
+      213: -6074335455851696140
+    second: Battle Backgrounds_529
+  - first:
+      213: 8139943699219081909
+    second: Battle Backgrounds_530
+  - first:
+      213: 4060851234824041801
+    second: Battle Backgrounds_531
+  - first:
+      213: -6296580260174880549
+    second: Battle Backgrounds_532
+  - first:
+      213: 896156001758455767
+    second: Battle Backgrounds_533
+  - first:
+      213: 3826341610604253859
+    second: Battle Backgrounds_534
+  - first:
+      213: 2764756396535825194
+    second: Battle Backgrounds_535
+  - first:
+      213: 5006973174008409255
+    second: Battle Backgrounds_536
+  - first:
+      213: -801025355342562753
+    second: Battle Backgrounds_537
+  - first:
+      213: 7844730080326786109
+    second: Battle Backgrounds_538
+  - first:
+      213: 7705595414263710325
+    second: Battle Backgrounds_539
+  - first:
+      213: 4996765192827610150
+    second: Battle Backgrounds_540
+  - first:
+      213: 4006358433431588035
+    second: Battle Backgrounds_541
+  - first:
+      213: 8350627005617925240
+    second: Battle Backgrounds_542
+  - first:
+      213: 45698598441951328
+    second: Battle Backgrounds_543
+  - first:
+      213: -1861125947299680450
+    second: Battle Backgrounds_544
+  - first:
+      213: 6848517975235628383
+    second: Battle Backgrounds_545
+  - first:
+      213: 4980708137522286431
+    second: Battle Backgrounds_546
+  - first:
+      213: -7571476007743445489
+    second: Battle Backgrounds_547
+  - first:
+      213: -4351590154191600093
+    second: Battle Backgrounds_548
+  - first:
+      213: 6861408788953742986
+    second: Battle Backgrounds_549
+  - first:
+      213: -7677395417285068198
+    second: Battle Backgrounds_550
+  - first:
+      213: -179221372700821627
+    second: Battle Backgrounds_551
+  - first:
+      213: -1120360477895441922
+    second: Battle Backgrounds_552
+  - first:
+      213: 3910136651860031079
+    second: Battle Backgrounds_553
+  - first:
+      213: -3573065037978267
+    second: Battle Backgrounds_554
+  - first:
+      213: -6976455698088696032
+    second: Battle Backgrounds_555
+  - first:
+      213: -597105111739538552
+    second: Battle Backgrounds_556
+  - first:
+      213: -5298055399594473472
+    second: Battle Backgrounds_557
+  - first:
+      213: -7097158411432175260
+    second: Battle Backgrounds_558
+  - first:
+      213: -9217294161811909760
+    second: Battle Backgrounds_559
+  - first:
+      213: -5520423944772517891
+    second: Battle Backgrounds_560
+  - first:
+      213: -1895902795056104722
+    second: Battle Backgrounds_561
+  - first:
+      213: 8156673367064561380
+    second: Battle Backgrounds_562
+  - first:
+      213: -5070284883575539509
+    second: Battle Backgrounds_563
+  - first:
+      213: -1108530610178342105
+    second: Battle Backgrounds_564
+  - first:
+      213: 1169903612377592326
+    second: Battle Backgrounds_565
+  - first:
+      213: 1167357075432983439
+    second: Battle Backgrounds_566
+  - first:
+      213: 374355880951125017
+    second: Battle Backgrounds_567
+  - first:
+      213: -5453191990329985801
+    second: Battle Backgrounds_568
+  - first:
+      213: 3135214421921972472
+    second: Battle Backgrounds_569
+  - first:
+      213: 7331116219841569815
+    second: Battle Backgrounds_570
+  - first:
+      213: 6773290870833065994
+    second: Battle Backgrounds_571
+  - first:
+      213: 6188312172433213007
+    second: Battle Backgrounds_572
+  - first:
+      213: -2522227719247938375
+    second: Battle Backgrounds_573
+  - first:
+      213: -2592554497798076968
+    second: Battle Backgrounds_574
+  - first:
+      213: -6459990116626895775
+    second: Battle Backgrounds_575
+  - first:
+      213: -3329875320518757566
+    second: Battle Backgrounds_576
+  - first:
+      213: 2950776753760600166
+    second: Battle Backgrounds_577
+  - first:
+      213: 3837815725488132821
+    second: Battle Backgrounds_578
+  - first:
+      213: -407101156593833597
+    second: Battle Backgrounds_579
+  - first:
+      213: -2973117804992942603
+    second: Battle Backgrounds_580
+  - first:
+      213: -4166866879567503564
+    second: Battle Backgrounds_581
+  - first:
+      213: -313756510781989350
+    second: Battle Backgrounds_582
+  - first:
+      213: -1663754480110608673
+    second: Battle Backgrounds_583
+  - first:
+      213: -5398669463005994503
+    second: Battle Backgrounds_584
+  - first:
+      213: 1330450400907585317
+    second: Battle Backgrounds_585
+  - first:
+      213: 7533019646632424993
+    second: Battle Backgrounds_586
+  - first:
+      213: -1756355600645009278
+    second: Battle Backgrounds_587
+  - first:
+      213: 5018220165547768215
+    second: Battle Backgrounds_588
+  - first:
+      213: 320640523528423489
+    second: Battle Backgrounds_589
+  - first:
+      213: 5455375520646589654
+    second: Battle Backgrounds_590
+  - first:
+      213: -6697066300049908237
+    second: Battle Backgrounds_591
+  - first:
+      213: 9149951661561544550
+    second: Battle Backgrounds_592
+  - first:
+      213: -2858204143914824989
+    second: Battle Backgrounds_593
+  - first:
+      213: 4265225650506081378
+    second: Battle Backgrounds_594
+  - first:
+      213: 8150552498822306255
+    second: Battle Backgrounds_595
+  - first:
+      213: 2704492322640710442
+    second: Battle Backgrounds_596
+  - first:
+      213: -1812257089997279171
+    second: Battle Backgrounds_597
+  - first:
+      213: -4257986620302026932
+    second: Battle Backgrounds_598
+  - first:
+      213: -8657123341681566100
+    second: Battle Backgrounds_599
+  - first:
+      213: 8602742938387679609
+    second: Battle Backgrounds_600
+  - first:
+      213: 2981841453520566558
+    second: Battle Backgrounds_601
+  - first:
+      213: -6482905017142736028
+    second: Battle Backgrounds_602
+  - first:
+      213: -3240752174518590698
+    second: Battle Backgrounds_603
+  - first:
+      213: 6608201228358480866
+    second: Battle Backgrounds_604
+  - first:
+      213: -432995901706268772
+    second: Battle Backgrounds_605
+  - first:
+      213: -189602700343781129
+    second: Battle Backgrounds_606
+  - first:
+      213: 5055726392380501502
+    second: Battle Backgrounds_607
+  - first:
+      213: 1810141345894161809
+    second: Battle Backgrounds_608
+  - first:
+      213: -1040512054474900797
+    second: Battle Backgrounds_609
+  - first:
+      213: 5709486310742260879
+    second: Battle Backgrounds_610
+  - first:
+      213: -3221649443916295769
+    second: Battle Backgrounds_611
+  - first:
+      213: -2535783440594106747
+    second: Battle Backgrounds_612
+  - first:
+      213: 5491441454079985932
+    second: Battle Backgrounds_613
+  - first:
+      213: -1190227110915194070
+    second: Battle Backgrounds_614
+  - first:
+      213: -8996912979703321176
+    second: Battle Backgrounds_615
+  - first:
+      213: 771976283921767660
+    second: Battle Backgrounds_616
+  - first:
+      213: -50625566805363939
+    second: Battle Backgrounds_617
+  - first:
+      213: 991887414995628430
+    second: Battle Backgrounds_618
+  - first:
+      213: 9025024755045579721
+    second: Battle Backgrounds_619
+  - first:
+      213: 2225894367798324387
+    second: Battle Backgrounds_620
+  - first:
+      213: 8760433640803405066
+    second: Battle Backgrounds_621
+  - first:
+      213: 2508183763085506518
+    second: Battle Backgrounds_622
+  - first:
+      213: -1852767851383732809
+    second: Battle Backgrounds_623
+  - first:
+      213: -9140942388047006858
+    second: Battle Backgrounds_624
+  - first:
+      213: -1380287440603709812
+    second: Battle Backgrounds_625
+  - first:
+      213: -7693989919224207012
+    second: Battle Backgrounds_626
+  - first:
+      213: 7317816569013806109
+    second: Battle Backgrounds_627
+  - first:
+      213: 7974977450459980407
+    second: Battle Backgrounds_628
+  - first:
+      213: -6082046433459714945
+    second: Battle Backgrounds_629
+  - first:
+      213: 9146796723418024610
+    second: Battle Backgrounds_630
+  - first:
+      213: 548787110442102123
+    second: Battle Backgrounds_631
+  - first:
+      213: 6294213316554012012
+    second: Battle Backgrounds_632
+  - first:
+      213: -3546665122978335902
+    second: Battle Backgrounds_633
+  - first:
+      213: -5738553041167082084
+    second: Battle Backgrounds_634
+  - first:
+      213: 2343373934307584402
+    second: Battle Backgrounds_635
+  - first:
+      213: 3740868389543815373
+    second: Battle Backgrounds_636
+  - first:
+      213: -5259556709174213550
+    second: Battle Backgrounds_637
+  - first:
+      213: 7534028849367409565
+    second: Battle Backgrounds_638
+  - first:
+      213: 8238314303554560423
+    second: Battle Backgrounds_639
+  - first:
+      213: 2286062999948929245
+    second: Battle Backgrounds_640
+  - first:
+      213: -8690524318974793935
+    second: Battle Backgrounds_641
+  - first:
+      213: 7261340085402560095
+    second: Battle Backgrounds_642
+  - first:
+      213: 8422553813722268531
+    second: Battle Backgrounds_643
+  - first:
+      213: -7132551507019973845
+    second: Battle Backgrounds_644
+  - first:
+      213: -8795134665839101343
+    second: Battle Backgrounds_645
+  - first:
+      213: 7721164694406408220
+    second: Battle Backgrounds_646
+  - first:
+      213: -8240479035203773877
+    second: Battle Backgrounds_647
+  - first:
+      213: 6281300645171816224
+    second: Battle Backgrounds_648
+  - first:
+      213: -5188955180545291693
+    second: Battle Backgrounds_649
+  - first:
+      213: -146770224139165372
+    second: Battle Backgrounds_650
+  - first:
+      213: -2091352453909160568
+    second: Battle Backgrounds_651
+  - first:
+      213: -1830886646155726522
+    second: Battle Backgrounds_652
+  - first:
+      213: -4822978202117258408
+    second: Battle Backgrounds_653
+  - first:
+      213: -6458093137028282750
+    second: Battle Backgrounds_654
+  - first:
+      213: -6212212022642052420
+    second: Battle Backgrounds_655
+  - first:
+      213: -3109964787322486479
+    second: Battle Backgrounds_656
+  - first:
+      213: 4502871214371176832
+    second: Battle Backgrounds_657
+  - first:
+      213: -5517339403178697990
+    second: Battle Backgrounds_658
+  - first:
+      213: 8110047541891981512
+    second: Battle Backgrounds_659
+  - first:
+      213: 7880400796819005804
+    second: Battle Backgrounds_660
+  - first:
+      213: 8525680452845696264
+    second: Battle Backgrounds_661
+  - first:
+      213: 4518284508666594897
+    second: Battle Backgrounds_662
+  - first:
+      213: -9136636177577369176
+    second: Battle Backgrounds_663
+  - first:
+      213: 4405707510266535682
+    second: Battle Backgrounds_664
+  - first:
+      213: -2483574619628762992
+    second: Battle Backgrounds_665
+  - first:
+      213: -2950433384624819715
+    second: Battle Backgrounds_666
+  - first:
+      213: 5629507483872719830
+    second: Battle Backgrounds_667
+  - first:
+      213: -8189157294788676363
+    second: Battle Backgrounds_668
+  - first:
+      213: -58182423945152808
+    second: Battle Backgrounds_669
+  - first:
+      213: -8300913507489277479
+    second: Battle Backgrounds_670
+  - first:
+      213: 3123639755727219094
+    second: Battle Backgrounds_671
+  - first:
+      213: 4267842118649663846
+    second: Battle Backgrounds_672
+  - first:
+      213: -5181654886028180102
+    second: Battle Backgrounds_673
+  - first:
+      213: -3479348454276226558
+    second: Battle Backgrounds_674
+  - first:
+      213: 4768419356788579142
+    second: Battle Backgrounds_675
+  - first:
+      213: -656386082822126140
+    second: Battle Backgrounds_676
+  - first:
+      213: 6696633288369786593
+    second: Battle Backgrounds_677
+  - first:
+      213: -2572624206215154426
+    second: Battle Backgrounds_678
+  - first:
+      213: -8544511407550243297
+    second: Battle Backgrounds_679
+  - first:
+      213: -8224323424664894160
+    second: Battle Backgrounds_680
+  - first:
+      213: 6117305770252544904
+    second: Battle Backgrounds_681
+  - first:
+      213: 4039063344395918271
+    second: Battle Backgrounds_682
+  - first:
+      213: 8018199031493975475
+    second: Battle Backgrounds_683
+  - first:
+      213: 1412564598264960520
+    second: Battle Backgrounds_684
+  - first:
+      213: 6070451082492563126
+    second: Battle Backgrounds_685
+  - first:
+      213: 9087355779955697311
+    second: Battle Backgrounds_686
+  - first:
+      213: 5589549930577128220
+    second: Battle Backgrounds_687
+  - first:
+      213: 2957350529116724807
+    second: Battle Backgrounds_688
+  - first:
+      213: 4678982612185737731
+    second: Battle Backgrounds_689
+  - first:
+      213: 3345876464314112783
+    second: Battle Backgrounds_690
+  - first:
+      213: 7641832654232503401
+    second: Battle Backgrounds_691
+  - first:
+      213: 2475913028155375808
+    second: Battle Backgrounds_692
+  - first:
+      213: -2171571902422374794
+    second: Battle Backgrounds_693
+  - first:
+      213: 8436062919915794136
+    second: Battle Backgrounds_694
+  - first:
+      213: 7781886613201793249
+    second: Battle Backgrounds_695
+  - first:
+      213: -6244469155689015754
+    second: Battle Backgrounds_696
+  - first:
+      213: 6271628464386493037
+    second: Battle Backgrounds_697
+  - first:
+      213: 4842696978177800799
+    second: Battle Backgrounds_698
+  - first:
+      213: 7227105844043755120
+    second: Battle Backgrounds_699
+  - first:
+      213: 7033801986779034243
+    second: Battle Backgrounds_700
+  - first:
+      213: 590763251014999227
+    second: Battle Backgrounds_701
+  - first:
+      213: -6159980467532379450
+    second: Battle Backgrounds_702
+  - first:
+      213: 2738567118012145791
+    second: Battle Backgrounds_703
+  - first:
+      213: -4905589552594576335
+    second: Battle Backgrounds_704
+  - first:
+      213: 796805716521245263
+    second: Battle Backgrounds_705
+  - first:
+      213: 528433274609146020
+    second: Battle Backgrounds_706
+  - first:
+      213: 8536505001882641269
+    second: Battle Backgrounds_707
+  - first:
+      213: -4800757776636695846
+    second: Battle Backgrounds_708
+  - first:
+      213: -7218999585509616413
+    second: Battle Backgrounds_709
+  - first:
+      213: 7425637378212556086
+    second: Battle Backgrounds_710
+  - first:
+      213: -1181885744147620261
+    second: Battle Backgrounds_711
+  - first:
+      213: -6285113064789312400
+    second: Battle Backgrounds_712
+  - first:
+      213: -2355058838008635817
+    second: Battle Backgrounds_713
+  - first:
+      213: 4025607899870778739
+    second: Battle Backgrounds_714
+  - first:
+      213: -3922254733163992179
+    second: Battle Backgrounds_715
+  - first:
+      213: -3698298435694383063
+    second: Battle Backgrounds_716
+  - first:
+      213: -4272288357606770981
+    second: Battle Backgrounds_717
+  - first:
+      213: 8301291543007483694
+    second: Battle Backgrounds_718
+  - first:
+      213: -3572457721389766839
+    second: Battle Backgrounds_719
+  - first:
+      213: 7877309420736429139
+    second: Battle Backgrounds_720
+  - first:
+      213: 8886958096425063092
+    second: Battle Backgrounds_721
+  - first:
+      213: -7414114763979002271
+    second: Battle Backgrounds_722
+  - first:
+      213: 8256112667254791659
+    second: Battle Backgrounds_723
+  - first:
+      213: -5670946779659893630
+    second: Battle Backgrounds_724
+  - first:
+      213: 3491501647119720547
+    second: Battle Backgrounds_725
+  - first:
+      213: 1820268118359374775
+    second: Battle Backgrounds_726
+  - first:
+      213: -949336340911247253
+    second: Battle Backgrounds_727
+  - first:
+      213: -7437070906093432797
+    second: Battle Backgrounds_728
+  - first:
+      213: -2741881522828500949
+    second: Battle Backgrounds_729
+  - first:
+      213: 8481032609391151388
+    second: Battle Backgrounds_730
+  - first:
+      213: 5694625494441319584
+    second: Battle Backgrounds_731
+  - first:
+      213: 7933911683937413905
+    second: Battle Backgrounds_732
+  - first:
+      213: 7725160229534712800
+    second: Battle Backgrounds_733
+  - first:
+      213: -9141839845588630756
+    second: Battle Backgrounds_734
+  - first:
+      213: 6592667159457877728
+    second: Battle Backgrounds_735
+  - first:
+      213: -5596371092077208920
+    second: Battle Backgrounds_736
+  - first:
+      213: 1052893442020543061
+    second: Battle Backgrounds_737
+  - first:
+      213: -8642455868786052935
+    second: Battle Backgrounds_738
+  - first:
+      213: 8309748933081750224
+    second: Battle Backgrounds_739
+  - first:
+      213: -6956428960628970570
+    second: Battle Backgrounds_740
+  - first:
+      213: -3663919684142727736
+    second: Battle Backgrounds_741
+  - first:
+      213: 8708751249868311673
+    second: Battle Backgrounds_742
+  - first:
+      213: -7575160057040042242
+    second: Battle Backgrounds_743
+  - first:
+      213: 7076958818712400654
+    second: Battle Backgrounds_744
+  - first:
+      213: -284810270529249775
+    second: Battle Backgrounds_745
+  - first:
+      213: -1568089797864384583
+    second: Battle Backgrounds_746
+  - first:
+      213: 9177519008622984994
+    second: Battle Backgrounds_747
+  - first:
+      213: 7198550454746905205
+    second: Battle Backgrounds_748
+  - first:
+      213: -5145991929204419456
+    second: Battle Backgrounds_749
+  - first:
+      213: -4932968182378969385
+    second: Battle Backgrounds_750
+  - first:
+      213: 4208719178359485255
+    second: Battle Backgrounds_751
+  - first:
+      213: -4916984776029281087
+    second: Battle Backgrounds_752
+  - first:
+      213: 2320386195421277414
+    second: Battle Backgrounds_753
+  - first:
+      213: -2287161681987867658
+    second: Battle Backgrounds_754
+  - first:
+      213: -9060587570309846360
+    second: Battle Backgrounds_755
+  - first:
+      213: -3990381621441174152
+    second: Battle Backgrounds_756
+  - first:
+      213: 614215173792323524
+    second: Battle Backgrounds_757
+  - first:
+      213: -2237080032393870424
+    second: Battle Backgrounds_758
+  - first:
+      213: 1984743853219866840
+    second: Battle Backgrounds_759
+  - first:
+      213: -273746567432429913
+    second: Battle Backgrounds_760
+  - first:
+      213: -5198923967783250107
+    second: Battle Backgrounds_761
+  - first:
+      213: 6132451846788965661
+    second: Battle Backgrounds_762
+  - first:
+      213: 6520426627487527824
+    second: Battle Backgrounds_763
+  - first:
+      213: 8012795371206611300
+    second: Battle Backgrounds_764
+  - first:
+      213: -4395142168909427087
+    second: Battle Backgrounds_765
+  - first:
+      213: -1899907801976776243
+    second: Battle Backgrounds_766
+  - first:
+      213: -6778110055424454440
+    second: Battle Backgrounds_767
+  - first:
+      213: -7707902429470656997
+    second: Battle Backgrounds_768
+  - first:
+      213: -4319019446626082088
+    second: Battle Backgrounds_769
+  - first:
+      213: -8110059774187095119
+    second: Battle Backgrounds_770
+  - first:
+      213: -8940495162646651153
+    second: Battle Backgrounds_771
+  - first:
+      213: 7078848872196097498
+    second: Battle Backgrounds_772
+  - first:
+      213: 8364411028102881464
+    second: Battle Backgrounds_773
+  - first:
+      213: 5990318242074468820
+    second: Battle Backgrounds_774
+  - first:
+      213: -5518938099399305659
+    second: Battle Backgrounds_775
+  - first:
+      213: -2855435728619427559
+    second: Battle Backgrounds_776
+  - first:
+      213: 8718616883712559985
+    second: Battle Backgrounds_777
+  - first:
+      213: 4322619781163024391
+    second: Battle Backgrounds_778
+  - first:
+      213: 734656399069686613
+    second: Battle Backgrounds_779
+  - first:
+      213: -2797994027814946089
+    second: Battle Backgrounds_780
+  - first:
+      213: -5475344634328738375
+    second: Battle Backgrounds_781
+  - first:
+      213: 2864550383856186490
+    second: Battle Backgrounds_782
+  - first:
+      213: 8249348083259334104
+    second: Battle Backgrounds_783
+  - first:
+      213: -9221600865905235236
+    second: Battle Backgrounds_784
+  - first:
+      213: -6745036893799103637
+    second: Battle Backgrounds_785
+  - first:
+      213: 2346023705963930271
+    second: Battle Backgrounds_786
+  - first:
+      213: 8621215833299612562
+    second: Battle Backgrounds_787
+  - first:
+      213: -1021543872181516264
+    second: Battle Backgrounds_788
+  - first:
+      213: -9093904370375909967
+    second: Battle Backgrounds_789
+  - first:
+      213: -4413145173390042352
+    second: Battle Backgrounds_790
+  - first:
+      213: -1809156494237900928
+    second: Battle Backgrounds_791
+  - first:
+      213: -1161438200811488275
+    second: Battle Backgrounds_792
+  - first:
+      213: -4736273424450636724
+    second: Battle Backgrounds_793
+  - first:
+      213: 6343053377705233970
+    second: Battle Backgrounds_794
+  - first:
+      213: 4654085096249037749
+    second: Battle Backgrounds_795
+  - first:
+      213: -8330879150071289147
+    second: Battle Backgrounds_796
+  - first:
+      213: 143650323910243068
+    second: Battle Backgrounds_797
+  - first:
+      213: 6614371724420518796
+    second: Battle Backgrounds_798
+  - first:
+      213: 7631254922956321112
+    second: Battle Backgrounds_799
+  - first:
+      213: 6596062128801533721
+    second: Battle Backgrounds_800
+  - first:
+      213: 6602330011175861931
+    second: Battle Backgrounds_801
+  - first:
+      213: -1730415453875341309
+    second: Battle Backgrounds_802
+  - first:
+      213: 925200307094699264
+    second: Battle Backgrounds_803
+  - first:
+      213: 6044498180600890147
+    second: Battle Backgrounds_804
+  - first:
+      213: -8503670151854379526
+    second: Battle Backgrounds_805
+  - first:
+      213: 5904505710973906512
+    second: Battle Backgrounds_806
+  - first:
+      213: 926079639226238619
+    second: Battle Backgrounds_807
+  - first:
+      213: -5952728429454216741
+    second: Battle Backgrounds_808
+  - first:
+      213: -4422364605810587555
+    second: Battle Backgrounds_809
+  - first:
+      213: 4691404919456649318
+    second: Battle Backgrounds_810
+  - first:
+      213: 1603725149189960141
+    second: Battle Backgrounds_811
+  - first:
+      213: -2762174303353522262
+    second: Battle Backgrounds_812
+  - first:
+      213: 9179663403444383128
+    second: Battle Backgrounds_813
+  - first:
+      213: -4835371024991069973
+    second: Battle Backgrounds_814
+  - first:
+      213: 2606543996159558074
+    second: Battle Backgrounds_815
+  - first:
+      213: 4351330899321935405
+    second: Battle Backgrounds_816
+  - first:
+      213: -8746142941004556772
+    second: Battle Backgrounds_817
+  - first:
+      213: -3471149507196319143
+    second: Battle Backgrounds_818
+  - first:
+      213: -6047190215888057442
+    second: Battle Backgrounds_819
+  - first:
+      213: 506094521407548748
+    second: Battle Backgrounds_820
+  - first:
+      213: 447780157789433930
+    second: Battle Backgrounds_821
+  - first:
+      213: -1600949738187972927
+    second: Battle Backgrounds_822
+  - first:
+      213: 1797812055645893210
+    second: Battle Backgrounds_823
+  - first:
+      213: -3060651294510168093
+    second: Battle Backgrounds_824
+  - first:
+      213: -2163922123769749672
+    second: Battle Backgrounds_825
+  - first:
+      213: -4803556104098451946
+    second: Battle Backgrounds_826
+  - first:
+      213: 759575357787692450
+    second: Battle Backgrounds_827
+  - first:
+      213: 4593774385957308421
+    second: Battle Backgrounds_828
+  - first:
+      213: -5126165786502245881
+    second: Battle Backgrounds_829
+  - first:
+      213: -4788382691133157731
+    second: Battle Backgrounds_830
+  - first:
+      213: -7392029417535681813
+    second: Battle Backgrounds_831
+  - first:
+      213: 294043889247461686
+    second: Battle Backgrounds_832
+  - first:
+      213: 2748271304101165673
+    second: Battle Backgrounds_833
+  - first:
+      213: -7459125864893570039
+    second: Battle Backgrounds_834
+  - first:
+      213: -4863837365566864814
+    second: Battle Backgrounds_835
+  - first:
+      213: 5673906184273049841
+    second: Battle Backgrounds_836
+  - first:
+      213: -8213221002133492425
+    second: Battle Backgrounds_837
+  - first:
+      213: -3811913988581963689
+    second: Battle Backgrounds_838
+  - first:
+      213: 1174009004199454972
+    second: Battle Backgrounds_839
+  - first:
+      213: -5477530990356837152
+    second: Battle Backgrounds_840
+  - first:
+      213: -3892547638491907525
+    second: Battle Backgrounds_841
+  - first:
+      213: 902976290492909010
+    second: Battle Backgrounds_842
+  - first:
+      213: -1959776557604628141
+    second: Battle Backgrounds_843
+  - first:
+      213: 2196872761290065772
+    second: Battle Backgrounds_844
+  - first:
+      213: 1996165027164801584
+    second: Battle Backgrounds_845
+  - first:
+      213: 3545334596378508636
+    second: Battle Backgrounds_846
+  - first:
+      213: -5411227898035084426
+    second: Battle Backgrounds_847
+  - first:
+      213: 2098678485297970395
+    second: Battle Backgrounds_848
+  - first:
+      213: -5146939467765455792
+    second: Battle Backgrounds_849
+  - first:
+      213: 3706570645560875857
+    second: Battle Backgrounds_850
+  - first:
+      213: -3105094879207651455
+    second: Battle Backgrounds_851
+  - first:
+      213: -1696107854245348265
+    second: Battle Backgrounds_852
+  - first:
+      213: -9108894634485095983
+    second: Battle Backgrounds_853
+  - first:
+      213: 5060268251380871294
+    second: Battle Backgrounds_854
+  - first:
+      213: 8148662241324244790
+    second: Battle Backgrounds_855
+  - first:
+      213: 8671479902707211333
+    second: Battle Backgrounds_856
+  - first:
+      213: -4401928367616143914
+    second: Battle Backgrounds_857
+  - first:
+      213: -173634674460678655
+    second: Battle Backgrounds_858
+  - first:
+      213: 1302190973623083695
+    second: Battle Backgrounds_859
+  - first:
+      213: 8244019846722154819
+    second: Battle Backgrounds_860
+  - first:
+      213: -5556680525269566992
+    second: Battle Backgrounds_861
+  - first:
+      213: -7659917057944221889
+    second: Battle Backgrounds_862
+  - first:
+      213: -7318467059701373032
+    second: Battle Backgrounds_863
+  - first:
+      213: -7249624013442996457
+    second: Battle Backgrounds_864
+  - first:
+      213: 2485663201065371296
+    second: Battle Backgrounds_865
+  - first:
+      213: -4637255949925450940
+    second: Battle Backgrounds_866
+  - first:
+      213: 7452534152667967183
+    second: Battle Backgrounds_867
+  - first:
+      213: -7205706625861634880
+    second: Battle Backgrounds_868
+  - first:
+      213: -3279833537160439250
+    second: Battle Backgrounds_869
+  - first:
+      213: -8630948020576204951
+    second: Battle Backgrounds_870
+  - first:
+      213: -2170825667765713708
+    second: Battle Backgrounds_871
+  - first:
+      213: 2834984853179174587
+    second: Battle Backgrounds_872
+  - first:
+      213: -8328009914299236773
+    second: Battle Backgrounds_873
+  - first:
+      213: -1078976199571798862
+    second: Battle Backgrounds_874
+  - first:
+      213: -957390277837710003
+    second: Battle Backgrounds_875
+  - first:
+      213: -8779110254421904709
+    second: Battle Backgrounds_876
+  - first:
+      213: -4499142332927026799
+    second: Battle Backgrounds_877
+  - first:
+      213: -8452980468142499266
+    second: Battle Backgrounds_878
+  - first:
+      213: -7774783986159284286
+    second: Battle Backgrounds_879
+  - first:
+      213: 6375308428370152920
+    second: Battle Backgrounds_880
+  - first:
+      213: 1756366761908154174
+    second: Battle Backgrounds_881
+  - first:
+      213: -5189155044476772757
+    second: Battle Backgrounds_882
+  - first:
+      213: 6271572821223202514
+    second: Battle Backgrounds_883
+  - first:
+      213: 3149189687551150768
+    second: Battle Backgrounds_884
+  - first:
+      213: 115932849949297022
+    second: Battle Backgrounds_885
+  - first:
+      213: 5964429783978035812
+    second: Battle Backgrounds_886
+  - first:
+      213: -5993828007482926747
+    second: Battle Backgrounds_887
+  - first:
+      213: -1245897964009292130
+    second: Battle Backgrounds_888
+  - first:
+      213: 7461593694592148125
+    second: Battle Backgrounds_889
+  - first:
+      213: 5893101119077908922
+    second: Battle Backgrounds_890
+  - first:
+      213: -6858446114212452156
+    second: Battle Backgrounds_891
+  - first:
+      213: -9120252194727658456
+    second: Battle Backgrounds_892
+  - first:
+      213: 6135812846522728781
+    second: Battle Backgrounds_893
+  - first:
+      213: 1917618252137723679
+    second: Battle Backgrounds_894
+  - first:
+      213: 182247776018084063
+    second: Battle Backgrounds_895
+  - first:
+      213: -1229063343186280383
+    second: Battle Backgrounds_896
+  - first:
+      213: 3779214253679832727
+    second: Battle Backgrounds_897
+  - first:
+      213: 2677644854382260154
+    second: Battle Backgrounds_898
+  - first:
+      213: -3322954430697900020
+    second: Battle Backgrounds_899
+  - first:
+      213: 5222348579843410565
+    second: Battle Backgrounds_900
+  - first:
+      213: 9078785050952792891
+    second: Battle Backgrounds_901
+  - first:
+      213: 3067242053344465360
+    second: Battle Backgrounds_902
+  - first:
+      213: -3017199753737850649
+    second: Battle Backgrounds_903
+  - first:
+      213: -5471356635399367735
+    second: Battle Backgrounds_904
+  - first:
+      213: 7001654778415042741
+    second: Battle Backgrounds_905
+  - first:
+      213: 7876706354156063824
+    second: Battle Backgrounds_906
+  - first:
+      213: 8347616035775452295
+    second: Battle Backgrounds_907
+  - first:
+      213: -5940602131659306906
+    second: Battle Backgrounds_908
+  - first:
+      213: -5087797902041211631
+    second: Battle Backgrounds_909
+  - first:
+      213: -3379508007284695183
+    second: Battle Backgrounds_910
+  - first:
+      213: 545049895829630026
+    second: Battle Backgrounds_911
+  - first:
+      213: 2402247000421981879
+    second: Battle Backgrounds_912
+  - first:
+      213: 4585762102658560080
+    second: Battle Backgrounds_913
+  - first:
+      213: 2611010318679748314
+    second: Battle Backgrounds_914
+  - first:
+      213: -4155013879597366128
+    second: Battle Backgrounds_915
+  - first:
+      213: 557661002263412756
+    second: Battle Backgrounds_916
+  - first:
+      213: 5226415024797880056
+    second: Battle Backgrounds_917
+  - first:
+      213: 5522940665882191302
+    second: Battle Backgrounds_918
+  - first:
+      213: 3293799022619991261
+    second: Battle Backgrounds_919
+  - first:
+      213: 2181582151881141675
+    second: Battle Backgrounds_920
+  - first:
+      213: 4223971538369726488
+    second: Battle Backgrounds_921
+  - first:
+      213: -5948739812776524084
+    second: Battle Backgrounds_922
+  - first:
+      213: -7101783996751583433
+    second: Battle Backgrounds_923
+  - first:
+      213: -2178687457421490347
+    second: Battle Backgrounds_924
+  - first:
+      213: -535847560294302317
+    second: Battle Backgrounds_925
+  - first:
+      213: 5380364606137987615
+    second: Battle Backgrounds_926
+  - first:
+      213: 2396411020633894703
+    second: Battle Backgrounds_927
+  - first:
+      213: -8386144211490449565
+    second: Battle Backgrounds_928
+  - first:
+      213: 8451414131101984837
+    second: Battle Backgrounds_929
+  - first:
+      213: -3972019505975680910
+    second: Battle Backgrounds_930
+  - first:
+      213: -6746247484337568359
+    second: Battle Backgrounds_931
+  - first:
+      213: 1094135603543338514
+    second: Battle Backgrounds_932
+  - first:
+      213: -728659782305232609
+    second: Battle Backgrounds_933
+  - first:
+      213: -1225012746586622924
+    second: Battle Backgrounds_934
+  - first:
+      213: -4998758933824143454
+    second: Battle Backgrounds_935
+  - first:
+      213: -7728771223037507753
+    second: Battle Backgrounds_936
+  - first:
+      213: 2097892467007199459
+    second: Battle Backgrounds_937
+  - first:
+      213: -6809702245626243142
+    second: Battle Backgrounds_938
+  - first:
+      213: 7123806030220734672
+    second: Battle Backgrounds_939
+  - first:
+      213: -33199190469991597
+    second: Battle Backgrounds_940
+  - first:
+      213: -2581978969660999684
+    second: Battle Backgrounds_941
+  - first:
+      213: -3792900739892689191
+    second: Battle Backgrounds_942
+  - first:
+      213: 6279751037266970665
+    second: Battle Backgrounds_943
+  - first:
+      213: -670275234613755850
+    second: Battle Backgrounds_944
+  - first:
+      213: -1752614291878227177
+    second: Battle Backgrounds_945
+  - first:
+      213: 5339177698837666194
+    second: Battle Backgrounds_946
+  - first:
+      213: 2133446207863994699
+    second: Battle Backgrounds_947
+  - first:
+      213: -2110532203126581706
+    second: Battle Backgrounds_948
+  - first:
+      213: -6941205395695564939
+    second: Battle Backgrounds_949
+  - first:
+      213: 8649362807589376912
+    second: Battle Backgrounds_950
+  - first:
+      213: -6574822621256856845
+    second: Battle Backgrounds_951
+  - first:
+      213: -7525015001497339716
+    second: Battle Backgrounds_952
+  - first:
+      213: -4069540819896025598
+    second: Battle Backgrounds_953
+  - first:
+      213: -83511996417074470
+    second: Battle Backgrounds_954
+  - first:
+      213: 3941862303374572038
+    second: Battle Backgrounds_955
+  - first:
+      213: 4988340938087157104
+    second: Battle Backgrounds_956
+  - first:
+      213: 2578652488950600829
+    second: Battle Backgrounds_957
+  - first:
+      213: 603976778487054148
+    second: Battle Backgrounds_958
+  - first:
+      213: 4107805720497565473
+    second: Battle Backgrounds_959
+  - first:
+      213: -1183699982970303910
+    second: Battle Backgrounds_960
+  - first:
+      213: -3237989218776206048
+    second: Battle Backgrounds_961
+  - first:
+      213: 3229164400698070635
+    second: Battle Backgrounds_962
+  - first:
+      213: -8847157427088295264
+    second: Battle Backgrounds_963
+  - first:
+      213: 5707706481936580955
+    second: Battle Backgrounds_964
+  - first:
+      213: -6332787825111068181
+    second: Battle Backgrounds_965
+  - first:
+      213: 4486829601099905765
+    second: Battle Backgrounds_966
+  - first:
+      213: -7760114344458978535
+    second: Battle Backgrounds_967
+  - first:
+      213: 1189878474984862429
+    second: Battle Backgrounds_968
+  - first:
+      213: -3476177693057431148
+    second: Battle Backgrounds_969
+  - first:
+      213: 3696407514851570744
+    second: Battle Backgrounds_970
+  - first:
+      213: -8260453837034161366
+    second: Battle Backgrounds_971
+  - first:
+      213: -1276829166764614675
+    second: Battle Backgrounds_972
+  - first:
+      213: -8359863164729549101
+    second: Battle Backgrounds_973
+  - first:
+      213: -1484027833501740898
+    second: Battle Backgrounds_974
+  - first:
+      213: -9010040359909759205
+    second: Battle Backgrounds_975
+  - first:
+      213: 6816033523368090405
+    second: Battle Backgrounds_976
+  - first:
+      213: -7966084970286297865
+    second: Battle Backgrounds_977
+  - first:
+      213: 3152725757153278043
+    second: Battle Backgrounds_978
+  - first:
+      213: 4402316911255781336
+    second: Battle Backgrounds_979
+  - first:
+      213: -306057653514323987
+    second: Battle Backgrounds_980
+  - first:
+      213: 6792068028108889859
+    second: Battle Backgrounds_981
+  - first:
+      213: 3787710157374331121
+    second: Battle Backgrounds_982
+  - first:
+      213: 1817505988194951976
+    second: Battle Backgrounds_983
+  - first:
+      213: 8237174228544847931
+    second: Battle Backgrounds_984
+  - first:
+      213: 5504230168960013446
+    second: Battle Backgrounds_985
+  - first:
+      213: 4948118663587139365
+    second: Battle Backgrounds_986
+  - first:
+      213: -5003208647649295032
+    second: Battle Backgrounds_987
+  - first:
+      213: -6772232989709083747
+    second: Battle Backgrounds_988
+  - first:
+      213: -6744957586575930585
+    second: Battle Backgrounds_989
+  - first:
+      213: -6974822950811046477
+    second: Battle Backgrounds_990
+  - first:
+      213: -9167258327936993608
+    second: Battle Backgrounds_991
+  - first:
+      213: 2573079548507457134
+    second: Battle Backgrounds_992
+  - first:
+      213: 7728488150043171548
+    second: Battle Backgrounds_993
+  - first:
+      213: 2780646197034553795
+    second: Battle Backgrounds_994
+  - first:
+      213: 3552303231278115314
+    second: Battle Backgrounds_995
+  - first:
+      213: 5059750740194283085
+    second: Battle Backgrounds_996
+  - first:
+      213: 3515975675090930139
+    second: Battle Backgrounds_997
+  - first:
+      213: -9048746777648433548
+    second: Battle Backgrounds_998
+  - first:
+      213: 8871919957703187469
+    second: Battle Backgrounds_999
+  - first:
+      213: -6696536846315488013
+    second: Battle Backgrounds_1000
+  - first:
+      213: -7548924118625102084
+    second: Battle Backgrounds_1001
+  - first:
+      213: 2770323920293499878
+    second: Battle Backgrounds_1002
+  - first:
+      213: 3028232309737136488
+    second: Battle Backgrounds_1003
+  - first:
+      213: 7138387469056832373
+    second: Battle Backgrounds_1004
+  - first:
+      213: 5341099577993797686
+    second: Battle Backgrounds_1005
+  - first:
+      213: 8461770060056996038
+    second: Battle Backgrounds_1006
+  - first:
+      213: -3044134782126997712
+    second: Battle Backgrounds_1007
+  - first:
+      213: -4784625065475475999
+    second: Battle Backgrounds_1008
+  - first:
+      213: 6284043790039951283
+    second: Battle Backgrounds_1009
+  - first:
+      213: -1743299103117350607
+    second: Battle Backgrounds_1010
+  - first:
+      213: -1488306023456156268
+    second: Battle Backgrounds_1011
+  - first:
+      213: 3687980475441385499
+    second: Battle Backgrounds_1012
+  - first:
+      213: 2450213830686564259
+    second: Battle Backgrounds_1013
+  - first:
+      213: 711307038004026909
+    second: Battle Backgrounds_1014
+  - first:
+      213: -980570202791318435
+    second: Battle Backgrounds_1015
+  - first:
+      213: -8222559761417699886
+    second: Battle Backgrounds_1016
+  - first:
+      213: 2462923647812987298
+    second: Battle Backgrounds_1017
+  - first:
+      213: -8182616590323081876
+    second: Battle Backgrounds_1018
+  - first:
+      213: 7945520448580158250
+    second: Battle Backgrounds_1019
+  - first:
+      213: -6634612943950101090
+    second: Battle Backgrounds_1020
+  - first:
+      213: -3581735415991323440
+    second: Battle Backgrounds_1021
+  - first:
+      213: -3216466132542340637
+    second: Battle Backgrounds_1022
+  - first:
+      213: 7702895920206663028
+    second: Battle Backgrounds_1023
+  - first:
+      213: 5110530582075261244
+    second: Battle Backgrounds_1024
+  - first:
+      213: 3981923247103735763
+    second: Battle Backgrounds_1025
+  - first:
+      213: -8078039242403132538
+    second: Battle Backgrounds_1026
+  - first:
+      213: -2663784832310485995
+    second: Battle Backgrounds_1027
+  - first:
+      213: -8092460713120832747
+    second: Battle Backgrounds_1028
+  - first:
+      213: -1217444916304524038
+    second: Battle Backgrounds_1029
+  - first:
+      213: 6342293757750980368
+    second: Battle Backgrounds_1030
+  - first:
+      213: 4789527189148990034
+    second: Battle Backgrounds_1031
+  - first:
+      213: 2522243961822782571
+    second: Battle Backgrounds_1032
+  - first:
+      213: -8236888941290504993
+    second: Battle Backgrounds_1033
+  - first:
+      213: -4189492932902688109
+    second: Battle Backgrounds_1034
+  - first:
+      213: -3574004943052424479
+    second: Battle Backgrounds_1035
+  - first:
+      213: -8748708811821004164
+    second: Battle Backgrounds_1036
+  - first:
+      213: -6547075828493164961
+    second: Battle Backgrounds_1037
+  - first:
+      213: -1569006286360755016
+    second: Battle Backgrounds_1038
+  - first:
+      213: -109417084268737959
+    second: Battle Backgrounds_1039
+  - first:
+      213: 7759915576386881218
+    second: Battle Backgrounds_1040
+  - first:
+      213: -5429434469669507391
+    second: Battle Backgrounds_1041
+  - first:
+      213: -6325498239049958921
+    second: Battle Backgrounds_1042
+  - first:
+      213: -5230549392385919957
+    second: Battle Backgrounds_1043
+  - first:
+      213: 8072002612286731025
+    second: Battle Backgrounds_1044
+  - first:
+      213: 4847082982063391889
+    second: Battle Backgrounds_1045
+  - first:
+      213: -6505099098817272312
+    second: Battle Backgrounds_1046
+  - first:
+      213: -3292548134943761937
+    second: Battle Backgrounds_1047
+  - first:
+      213: -5636902689873331980
+    second: Battle Backgrounds_1048
+  - first:
+      213: -7105762908952588841
+    second: Battle Backgrounds_1049
+  - first:
+      213: 3556015377810412139
+    second: Battle Backgrounds_1050
+  - first:
+      213: -6930831664429874426
+    second: Battle Backgrounds_1051
+  - first:
+      213: 1987660628572199251
+    second: Battle Backgrounds_1052
+  - first:
+      213: -7959026545863311947
+    second: Battle Backgrounds_1053
+  - first:
+      213: 8415677768534200584
+    second: Battle Backgrounds_1054
+  - first:
+      213: -2217293911798464411
+    second: Battle Backgrounds_1055
+  - first:
+      213: 1086729421762072821
+    second: Battle Backgrounds_1056
+  - first:
+      213: -2435020725331644006
+    second: Battle Backgrounds_1057
+  - first:
+      213: 8718894718887979338
+    second: Battle Backgrounds_1058
+  - first:
+      213: -7732761332016849587
+    second: Battle Backgrounds_1059
+  - first:
+      213: 4975045203483476694
+    second: Battle Backgrounds_1060
+  - first:
+      213: 174584116143720508
+    second: Battle Backgrounds_1061
+  - first:
+      213: 5482203050859860918
+    second: Battle Backgrounds_1062
+  - first:
+      213: -8619667976959094854
+    second: Battle Backgrounds_1063
+  - first:
+      213: -2175077295219712859
+    second: Battle Backgrounds_1064
+  - first:
+      213: 1192804643412460780
+    second: Battle Backgrounds_1065
+  - first:
+      213: -1466198048663049488
+    second: Battle Backgrounds_1066
+  - first:
+      213: 124300536223969009
+    second: Battle Backgrounds_1067
+  - first:
+      213: -6338116477749457741
+    second: Battle Backgrounds_1068
+  - first:
+      213: 5704882544243958964
+    second: Battle Backgrounds_1069
+  - first:
+      213: -6653212609425066899
+    second: Battle Backgrounds_1070
+  - first:
+      213: -3016256772399046090
+    second: Battle Backgrounds_1071
+  - first:
+      213: -8505954067495912396
+    second: Battle Backgrounds_1072
+  - first:
+      213: 2549968125547629012
+    second: Battle Backgrounds_1073
+  - first:
+      213: -667195665055657988
+    second: Battle Backgrounds_1074
+  - first:
+      213: -2969313341638704151
+    second: Battle Backgrounds_1075
+  - first:
+      213: 706885959868834740
+    second: Battle Backgrounds_1076
+  - first:
+      213: -1837344493092752735
+    second: Battle Backgrounds_1077
+  - first:
+      213: -6485953363943323377
+    second: Battle Backgrounds_1078
+  - first:
+      213: 6593460914289198899
+    second: Battle Backgrounds_1079
+  - first:
+      213: 9157725332959749965
+    second: Battle Backgrounds_1080
+  - first:
+      213: -8164768059958463570
+    second: Battle Backgrounds_1081
+  - first:
+      213: -3224263216474607578
+    second: Battle Backgrounds_1082
+  - first:
+      213: -337519355068919551
+    second: Battle Backgrounds_1083
+  - first:
+      213: 1617165905956778913
+    second: Battle Backgrounds_1084
+  - first:
+      213: -256212043371410377
+    second: Battle Backgrounds_1085
+  - first:
+      213: 5576731659130441998
+    second: Battle Backgrounds_1086
+  - first:
+      213: -1174654308490786562
+    second: Battle Backgrounds_1087
+  - first:
+      213: 6081099483192947030
+    second: Battle Backgrounds_1088
+  - first:
+      213: 738544068949965539
+    second: Battle Backgrounds_1089
+  - first:
+      213: 9057983237289829581
+    second: Battle Backgrounds_1090
+  - first:
+      213: -3593482906506806655
+    second: Battle Backgrounds_1091
+  - first:
+      213: 452939940570911609
+    second: Battle Backgrounds_1092
+  - first:
+      213: 2730338146103728137
+    second: Battle Backgrounds_1093
+  - first:
+      213: 4505281584379865950
+    second: Battle Backgrounds_1094
+  - first:
+      213: 298963326321107714
+    second: Battle Backgrounds_1095
+  - first:
+      213: 7429006533593806470
+    second: Battle Backgrounds_1096
+  - first:
+      213: -1449613799638234641
+    second: Battle Backgrounds_1097
+  - first:
+      213: -5740922896738353930
+    second: Battle Backgrounds_1098
+  - first:
+      213: -8140657804886472602
+    second: Battle Backgrounds_1099
+  - first:
+      213: -1664821397463241884
+    second: Battle Backgrounds_1100
+  - first:
+      213: 8064807275485720787
+    second: Battle Backgrounds_1101
+  - first:
+      213: 2232706711153408125
+    second: Battle Backgrounds_1102
+  - first:
+      213: 7521059811783430505
+    second: Battle Backgrounds_1103
+  - first:
+      213: 9141207463050906948
+    second: Battle Backgrounds_1104
+  - first:
+      213: -7806204111911558859
+    second: Battle Backgrounds_1105
+  - first:
+      213: -4552048070786225823
+    second: Battle Backgrounds_1106
+  - first:
+      213: 2909634047298934791
+    second: Battle Backgrounds_1107
+  - first:
+      213: -5433664999821642759
+    second: Battle Backgrounds_1108
+  - first:
+      213: 6389352778213025317
+    second: Battle Backgrounds_1109
+  - first:
+      213: 5298391639914907512
+    second: Battle Backgrounds_1110
+  - first:
+      213: 886390548570944419
+    second: Battle Backgrounds_1111
+  - first:
+      213: -6739993731329260831
+    second: Battle Backgrounds_1112
+  - first:
+      213: -3176468240819677670
+    second: Battle Backgrounds_1113
+  - first:
+      213: 3358154231240694136
+    second: Battle Backgrounds_1114
+  - first:
+      213: 7976011019211278957
+    second: Battle Backgrounds_1115
+  - first:
+      213: 2201669007878919886
+    second: Battle Backgrounds_1116
+  - first:
+      213: 6478374798333081010
+    second: Battle Backgrounds_1117
+  - first:
+      213: -7951205274777845277
+    second: Battle Backgrounds_1118
+  - first:
+      213: -9069912689137486514
+    second: Battle Backgrounds_1119
+  - first:
+      213: -4034188704520490936
+    second: Battle Backgrounds_1120
+  - first:
+      213: -3456204275698959842
+    second: Battle Backgrounds_1121
+  - first:
+      213: -7154654316206089557
+    second: Battle Backgrounds_1122
+  - first:
+      213: -4304614051726510926
+    second: Battle Backgrounds_1123
+  - first:
+      213: -1465783156140859751
+    second: Battle Backgrounds_1124
+  - first:
+      213: -4729276499955393461
+    second: Battle Backgrounds_1125
+  - first:
+      213: -5757085811718480638
+    second: Battle Backgrounds_1126
+  - first:
+      213: 7603924718817026860
+    second: Battle Backgrounds_1127
+  - first:
+      213: -4076413359572179284
+    second: Battle Backgrounds_1128
+  - first:
+      213: 8666408064544326399
+    second: Battle Backgrounds_1129
+  - first:
+      213: -1754508049842618179
+    second: Battle Backgrounds_1130
+  - first:
+      213: 2993171697422022072
+    second: Battle Backgrounds_1131
+  - first:
+      213: -7937865326776134953
+    second: Battle Backgrounds_1132
+  - first:
+      213: 7664489844212657647
+    second: Battle Backgrounds_1133
+  - first:
+      213: 3207897141363652977
+    second: Battle Backgrounds_1134
+  - first:
+      213: -3649230688748336696
+    second: Battle Backgrounds_1135
+  - first:
+      213: -2322273533198689610
+    second: Battle Backgrounds_1136
+  - first:
+      213: -8552220769436342678
+    second: Battle Backgrounds_1137
+  - first:
+      213: -4804420302023710970
+    second: Battle Backgrounds_1138
+  - first:
+      213: -8132109719123625607
+    second: Battle Backgrounds_1139
+  - first:
+      213: -1577133679933393740
+    second: Battle Backgrounds_1140
+  - first:
+      213: -7226551322332896334
+    second: Battle Backgrounds_1141
+  - first:
+      213: -1618831326647067789
+    second: Battle Backgrounds_1142
+  - first:
+      213: -5303557673066668361
+    second: Battle Backgrounds_1143
+  - first:
+      213: -4468892558873871763
+    second: Battle Backgrounds_1144
+  - first:
+      213: 6132564366302830913
+    second: Battle Backgrounds_1145
+  - first:
+      213: 9164367581396135347
+    second: Battle Backgrounds_1146
+  - first:
+      213: 4631589804273298032
+    second: Battle Backgrounds_1147
+  - first:
+      213: 3441107386173334188
+    second: Battle Backgrounds_1148
+  - first:
+      213: 6890933381203691233
+    second: Battle Backgrounds_1149
+  - first:
+      213: -7089680209775095996
+    second: Battle Backgrounds_1150
+  - first:
+      213: -5677766948972487489
+    second: Battle Backgrounds_1151
+  - first:
+      213: -4270291612622684947
+    second: Battle Backgrounds_1152
+  - first:
+      213: -103648807378102632
+    second: Battle Backgrounds_1153
+  - first:
+      213: 5527179961327341609
+    second: Battle Backgrounds_1154
+  - first:
+      213: -4575499475705633113
+    second: Battle Backgrounds_1155
+  - first:
+      213: -4027685105358185891
+    second: Battle Backgrounds_1156
+  - first:
+      213: -9150058776996450368
+    second: Battle Backgrounds_1157
+  - first:
+      213: -487965610028759107
+    second: Battle Backgrounds_1158
+  - first:
+      213: -2736699611940772508
+    second: Battle Backgrounds_1159
+  - first:
+      213: -5975698766304782692
+    second: Battle Backgrounds_1160
+  - first:
+      213: 8861427990292142806
+    second: Battle Backgrounds_1161
+  - first:
+      213: -317635652428858246
+    second: Battle Backgrounds_1162
+  - first:
+      213: -4920984027945635052
+    second: Battle Backgrounds_1163
+  - first:
+      213: -7620682076566033834
+    second: Battle Backgrounds_1164
+  - first:
+      213: -5411067715697117600
+    second: Battle Backgrounds_1165
+  - first:
+      213: -4595911096263773849
+    second: Battle Backgrounds_1166
+  - first:
+      213: 8634205226013142765
+    second: Battle Backgrounds_1167
+  - first:
+      213: 1895888884425406985
+    second: Battle Backgrounds_1168
+  - first:
+      213: 3728729340086920718
+    second: Battle Backgrounds_1169
+  - first:
+      213: -1445245489312715051
+    second: Battle Backgrounds_1170
+  - first:
+      213: 8040938237970140821
+    second: Battle Backgrounds_1171
+  - first:
+      213: 6564145032037250445
+    second: Battle Backgrounds_1172
+  - first:
+      213: -7192384194337108211
+    second: Battle Backgrounds_1173
+  - first:
+      213: -9022966806602291782
+    second: Battle Backgrounds_1174
+  - first:
+      213: -6857834493992745638
+    second: Battle Backgrounds_1175
+  - first:
+      213: -171979417148288568
+    second: Battle Backgrounds_1176
+  - first:
+      213: 156334254551222979
+    second: Battle Backgrounds_1177
+  - first:
+      213: 2503846894594732564
+    second: Battle Backgrounds_1178
+  - first:
+      213: -2441228593617118852
+    second: Battle Backgrounds_1179
+  - first:
+      213: 4799937199456992159
+    second: Battle Backgrounds_1180
+  - first:
+      213: 7567028877798730450
+    second: Battle Backgrounds_1181
+  - first:
+      213: 319942920714191465
+    second: Battle Backgrounds_1182
+  - first:
+      213: 2939461912010795482
+    second: Battle Backgrounds_1183
+  - first:
+      213: -5761478442725548197
+    second: Battle Backgrounds_1184
+  - first:
+      213: -4842959534969404060
+    second: Battle Backgrounds_1185
+  - first:
+      213: 5888184482228293830
+    second: Battle Backgrounds_1186
+  - first:
+      213: 593760219768500033
+    second: Battle Backgrounds_1187
+  - first:
+      213: -717765062465916375
+    second: Battle Backgrounds_1188
+  - first:
+      213: 2216317112399198566
+    second: Battle Backgrounds_1189
+  - first:
+      213: 7685138792318225306
+    second: Battle Backgrounds_1190
+  - first:
+      213: 1464781782701853238
+    second: Battle Backgrounds_1191
+  - first:
+      213: 3069563894158778298
+    second: Battle Backgrounds_1192
+  - first:
+      213: 937533942984019278
+    second: Battle Backgrounds_1193
+  - first:
+      213: -9128742429896041491
+    second: Battle Backgrounds_1194
+  - first:
+      213: -7871252046689648865
+    second: Battle Backgrounds_1195
+  - first:
+      213: -8771363376342850702
+    second: Battle Backgrounds_1196
+  - first:
+      213: -2315944294392669531
+    second: Battle Backgrounds_1197
+  - first:
+      213: -6935764996655546972
+    second: Battle Backgrounds_1198
+  - first:
+      213: -6481996021992191395
+    second: Battle Backgrounds_1199
+  - first:
+      213: -1877834655688649960
+    second: Battle Backgrounds_1200
+  - first:
+      213: -7400833165187799006
+    second: Battle Backgrounds_1201
+  - first:
+      213: -860924136754210705
+    second: Battle Backgrounds_1202
+  - first:
+      213: 2623189520342795074
+    second: Battle Backgrounds_1203
+  - first:
+      213: -264910100436129668
+    second: Battle Backgrounds_1204
+  - first:
+      213: -4114480935341355519
+    second: Battle Backgrounds_1205
+  - first:
+      213: -2251937665718880636
+    second: Battle Backgrounds_1206
+  - first:
+      213: -6796698716204895154
+    second: Battle Backgrounds_1207
+  - first:
+      213: 8167756903685174225
+    second: Battle Backgrounds_1208
+  - first:
+      213: -9222356491178442919
+    second: Battle Backgrounds_1209
+  - first:
+      213: 2983454397660137987
+    second: Battle Backgrounds_1210
+  - first:
+      213: 2389732596563545881
+    second: Battle Backgrounds_1211
+  - first:
+      213: -4620705458105458582
+    second: Battle Backgrounds_1212
+  - first:
+      213: -1371668995125784344
+    second: Battle Backgrounds_1213
+  - first:
+      213: 7560182544675370006
+    second: Battle Backgrounds_1214
+  - first:
+      213: -5384713273085756660
+    second: Battle Backgrounds_1215
+  - first:
+      213: 458676325413072350
+    second: Battle Backgrounds_1216
+  - first:
+      213: 2847694030923542061
+    second: Battle Backgrounds_1217
+  - first:
+      213: 2254217881043670943
+    second: Battle Backgrounds_1218
+  - first:
+      213: -7674294175810291452
+    second: Battle Backgrounds_1219
+  - first:
+      213: -5807129084071035673
+    second: Battle Backgrounds_1220
+  - first:
+      213: 1494964589232599811
+    second: Battle Backgrounds_1221
+  - first:
+      213: 2071609432859524960
+    second: Battle Backgrounds_1222
+  - first:
+      213: -4236938471415271019
+    second: Battle Backgrounds_1223
+  - first:
+      213: -4362389436157424030
+    second: Battle Backgrounds_1224
+  - first:
+      213: 2331631390055129815
+    second: Battle Backgrounds_1225
+  - first:
+      213: -687924278577050601
+    second: Battle Backgrounds_1226
+  - first:
+      213: 5118406414427257799
+    second: Battle Backgrounds_1227
+  - first:
+      213: -2844166523881186521
+    second: Battle Backgrounds_1228
+  - first:
+      213: 8463870997032086926
+    second: Battle Backgrounds_1229
+  - first:
+      213: 7624854629559924034
+    second: Battle Backgrounds_1230
+  - first:
+      213: 4133339546737151716
+    second: Battle Backgrounds_1231
+  - first:
+      213: -127871127968120001
+    second: Battle Backgrounds_1232
+  - first:
+      213: -2645568473675486796
+    second: Battle Backgrounds_1233
+  - first:
+      213: -7373765894564244182
+    second: Battle Backgrounds_1234
+  - first:
+      213: -1347770629489808028
+    second: Battle Backgrounds_1235
+  - first:
+      213: -1613231351239724973
+    second: Battle Backgrounds_1236
+  - first:
+      213: 784460776337484562
+    second: Battle Backgrounds_1237
+  - first:
+      213: 5251275370346635108
+    second: Battle Backgrounds_1238
+  - first:
+      213: -6411983788287282705
+    second: Battle Backgrounds_1239
+  - first:
+      213: -4326540744456947427
+    second: Battle Backgrounds_1240
+  - first:
+      213: 6513062654778869637
+    second: Battle Backgrounds_1241
+  - first:
+      213: -960966976188925681
+    second: Battle Backgrounds_1242
+  - first:
+      213: -8642548811754176655
+    second: Battle Backgrounds_1243
+  - first:
+      213: -5630259625315291197
+    second: Battle Backgrounds_1244
+  - first:
+      213: 6911824641941710026
+    second: Battle Backgrounds_1245
+  - first:
+      213: 8140363911917145880
+    second: Battle Backgrounds_1246
+  - first:
+      213: 4040317801178188632
+    second: Battle Backgrounds_1247
+  - first:
+      213: 8298601332452218360
+    second: Battle Backgrounds_1248
+  - first:
+      213: 6508064416815546703
+    second: Battle Backgrounds_1249
+  - first:
+      213: -1192139780675008272
+    second: Battle Backgrounds_1250
+  - first:
+      213: -3984187525602950625
+    second: Battle Backgrounds_1251
+  - first:
+      213: 4161515065176080290
+    second: Battle Backgrounds_1252
+  - first:
+      213: 2185031000927281137
+    second: Battle Backgrounds_1253
+  - first:
+      213: 5054786830525925273
+    second: Battle Backgrounds_1254
+  - first:
+      213: 4618682385752847018
+    second: Battle Backgrounds_1255
+  - first:
+      213: -190638024104029826
+    second: Battle Backgrounds_1256
+  - first:
+      213: -8041496226913895436
+    second: Battle Backgrounds_1257
+  - first:
+      213: 6844609389209868385
+    second: Battle Backgrounds_1258
+  - first:
+      213: 4498554904645056829
+    second: Battle Backgrounds_1259
+  - first:
+      213: 7333571532263226141
+    second: Battle Backgrounds_1260
+  - first:
+      213: -2859669381645298622
+    second: Battle Backgrounds_1261
+  - first:
+      213: -4570039616764550367
+    second: Battle Backgrounds_1262
+  - first:
+      213: 1985683918009051170
+    second: Battle Backgrounds_1263
+  - first:
+      213: -4538584170391057565
+    second: Battle Backgrounds_1264
+  - first:
+      213: 3216877083158299252
+    second: Battle Backgrounds_1265
+  - first:
+      213: 3979487766128949648
+    second: Battle Backgrounds_1266
+  - first:
+      213: -857414523268241097
+    second: Battle Backgrounds_1267
+  - first:
+      213: -289144019558865240
+    second: Battle Backgrounds_1268
+  - first:
+      213: 7646250826671956051
+    second: Battle Backgrounds_1269
+  - first:
+      213: -5049709949468830039
+    second: Battle Backgrounds_1270
+  - first:
+      213: 2906725650477139746
+    second: Battle Backgrounds_1271
+  - first:
+      213: 1066326126279079030
+    second: Battle Backgrounds_1272
+  - first:
+      213: 6391759543220201352
+    second: Battle Backgrounds_1273
+  - first:
+      213: 2007790297826257709
+    second: Battle Backgrounds_1274
+  - first:
+      213: 4511622416954531053
+    second: Battle Backgrounds_1275
+  - first:
+      213: 1465172688379702832
+    second: Battle Backgrounds_1276
+  - first:
+      213: 9211299927578099654
+    second: Battle Backgrounds_1277
+  - first:
+      213: -7199057334071006037
+    second: Battle Backgrounds_1278
+  - first:
+      213: -1223569038401654180
+    second: Battle Backgrounds_1279
+  - first:
+      213: 1527153987861932026
+    second: Battle Backgrounds_1280
+  - first:
+      213: 8517997790085338575
+    second: Battle Backgrounds_1281
+  - first:
+      213: 302532838989826429
+    second: Battle Backgrounds_1282
+  - first:
+      213: -1374287404388565643
+    second: Battle Backgrounds_1283
+  - first:
+      213: 1315206459459752718
+    second: Battle Backgrounds_1284
+  - first:
+      213: -3638673077527337455
+    second: Battle Backgrounds_1285
+  - first:
+      213: 6593031435453183149
+    second: Battle Backgrounds_1286
+  - first:
+      213: 5300100794629234641
+    second: Battle Backgrounds_1287
+  - first:
+      213: -5042604540149258817
+    second: Battle Backgrounds_1288
+  - first:
+      213: -5170405091572592625
+    second: Battle Backgrounds_1289
+  - first:
+      213: -5555161948701420587
+    second: Battle Backgrounds_1290
+  - first:
+      213: 4604054584161960984
+    second: Battle Backgrounds_1291
+  - first:
+      213: 28265056999858409
+    second: Battle Backgrounds_1292
+  - first:
+      213: -1765574875543656733
+    second: Battle Backgrounds_1293
+  - first:
+      213: 2477222084802621384
+    second: Battle Backgrounds_1294
+  - first:
+      213: 6216850438602990967
+    second: Battle Backgrounds_1295
+  - first:
+      213: 2916602865732388206
+    second: Battle Backgrounds_1296
+  - first:
+      213: -6640494011472489509
+    second: Battle Backgrounds_1297
+  - first:
+      213: -6227921846364226129
+    second: Battle Backgrounds_1298
+  - first:
+      213: -7132957830246653897
+    second: Battle Backgrounds_1299
+  - first:
+      213: 6866691872559260861
+    second: Battle Backgrounds_1300
+  - first:
+      213: -5824682659217535912
+    second: Battle Backgrounds_1301
+  - first:
+      213: 2066501905829844349
+    second: Battle Backgrounds_1302
+  - first:
+      213: 7460801571820348851
+    second: Battle Backgrounds_1303
+  - first:
+      213: 8993026484719791617
+    second: Battle Backgrounds_1304
+  - first:
+      213: 8258560346159147739
+    second: Battle Backgrounds_1305
+  - first:
+      213: 4553062007297958163
+    second: Battle Backgrounds_1306
+  - first:
+      213: -4060314636017089546
+    second: Battle Backgrounds_1307
+  - first:
+      213: -1677837666008556610
+    second: Battle Backgrounds_1308
+  - first:
+      213: -2197165869000207964
+    second: Battle Backgrounds_1309
+  - first:
+      213: -4191352858518569882
+    second: Battle Backgrounds_1310
+  - first:
+      213: 3051644709044279417
+    second: Battle Backgrounds_1311
+  - first:
+      213: -1301676090512418491
+    second: Battle Backgrounds_1312
+  - first:
+      213: -5582310732914304952
+    second: Battle Backgrounds_1313
+  - first:
+      213: -634421397958643752
+    second: Battle Backgrounds_1314
+  - first:
+      213: 9197547120674943390
+    second: Battle Backgrounds_1315
+  - first:
+      213: -4278413775223607260
+    second: Battle Backgrounds_1316
+  - first:
+      213: -4030760212018850688
+    second: Battle Backgrounds_1317
+  - first:
+      213: -4519076275812052866
+    second: Battle Backgrounds_1318
+  - first:
+      213: 2341321840987664690
+    second: Battle Backgrounds_1319
+  - first:
+      213: 7274907002303052767
+    second: Battle Backgrounds_1320
+  - first:
+      213: -6751711028214830127
+    second: Battle Backgrounds_1321
+  - first:
+      213: -6473173024765012185
+    second: Battle Backgrounds_1322
+  - first:
+      213: -7454702833323888613
+    second: Battle Backgrounds_1323
+  - first:
+      213: -1087221779993300779
+    second: Battle Backgrounds_1324
+  - first:
+      213: -5840605383850325587
+    second: Battle Backgrounds_1325
+  - first:
+      213: -5235029677206643630
+    second: Battle Backgrounds_1326
+  - first:
+      213: -5004178972222602579
+    second: Battle Backgrounds_1327
+  - first:
+      213: -6752591550538869921
+    second: Battle Backgrounds_1328
+  - first:
+      213: -2955845790907406129
+    second: Battle Backgrounds_1329
+  - first:
+      213: 4626731710265166785
+    second: Battle Backgrounds_1330
+  - first:
+      213: -8019368798614849242
+    second: Battle Backgrounds_1331
+  - first:
+      213: 7200150558432741967
+    second: Battle Backgrounds_1332
+  - first:
+      213: 7427431617107191973
+    second: Battle Backgrounds_1333
+  - first:
+      213: -4825203621175576009
+    second: Battle Backgrounds_1334
+  - first:
+      213: 5060407241661421847
+    second: Battle Backgrounds_1335
+  - first:
+      213: -7982015473943369652
+    second: Battle Backgrounds_1336
+  - first:
+      213: -8111856793805894007
+    second: Battle Backgrounds_1337
+  - first:
+      213: 4962876864528614782
+    second: Battle Backgrounds_1338
+  - first:
+      213: -164504160402432378
+    second: Battle Backgrounds_1339
+  - first:
+      213: -3287284450926239280
+    second: Battle Backgrounds_1340
+  - first:
+      213: -7074837063739297278
+    second: Battle Backgrounds_1341
+  - first:
+      213: 6873715403404658835
+    second: Battle Backgrounds_1342
+  - first:
+      213: -3823547694781813211
+    second: Battle Backgrounds_1343
+  - first:
+      213: -5025942534737515177
+    second: Battle Backgrounds_1344
+  - first:
+      213: -5604272073835365709
+    second: Battle Backgrounds_1345
+  - first:
+      213: -255428936224154919
+    second: Battle Backgrounds_1346
+  - first:
+      213: 2055468567800351785
+    second: Battle Backgrounds_1347
+  - first:
+      213: 3795360459310238328
+    second: Battle Backgrounds_1348
+  - first:
+      213: 6660365009865900127
+    second: Battle Backgrounds_1349
+  - first:
+      213: -7872142057421279208
+    second: Battle Backgrounds_1350
+  - first:
+      213: 3193221506085437171
+    second: Battle Backgrounds_1351
+  - first:
+      213: 8032356013137282169
+    second: Battle Backgrounds_1352
+  - first:
+      213: -5765178238198834630
+    second: Battle Backgrounds_1353
+  - first:
+      213: 1007879398266670019
+    second: Battle Backgrounds_1354
+  - first:
+      213: -6206799163342362241
+    second: Battle Backgrounds_1355
+  - first:
+      213: -5968388660900957092
+    second: Battle Backgrounds_1356
+  - first:
+      213: 780990755072673701
+    second: Battle Backgrounds_1357
+  - first:
+      213: -2810605882522806703
+    second: Battle Backgrounds_1358
+  - first:
+      213: -4719735165922660917
+    second: Battle Backgrounds_1359
+  - first:
+      213: 3300895714292843066
+    second: Battle Backgrounds_1360
+  - first:
+      213: -1339657845022784843
+    second: Battle Backgrounds_1361
+  - first:
+      213: -5950801206878732666
+    second: Battle Backgrounds_1362
+  - first:
+      213: -4610577725451031157
+    second: Battle Backgrounds_1363
+  - first:
+      213: -2012172016372005898
+    second: Battle Backgrounds_1364
+  - first:
+      213: 983544814927352083
+    second: Battle Backgrounds_1365
+  - first:
+      213: -7400436422440099661
+    second: Battle Backgrounds_1366
+  - first:
+      213: 6586872008396168456
+    second: Battle Backgrounds_1367
+  - first:
+      213: -8974031494916994452
+    second: Battle Backgrounds_1368
+  - first:
+      213: -2841641687359524422
+    second: Battle Backgrounds_1369
+  - first:
+      213: 1285631869800065479
+    second: Battle Backgrounds_1370
+  - first:
+      213: 990227575365825874
+    second: Battle Backgrounds_1371
+  - first:
+      213: 7408721388597663726
+    second: Battle Backgrounds_1372
+  - first:
+      213: 171210445325924320
+    second: Battle Backgrounds_1373
+  - first:
+      213: -6952516736748530706
+    second: Battle Backgrounds_1374
+  - first:
+      213: 5916526278323854494
+    second: Battle Backgrounds_1375
+  - first:
+      213: 3246986166073597874
+    second: Battle Backgrounds_1376
+  - first:
+      213: -557708547301082211
+    second: Battle Backgrounds_1377
+  - first:
+      213: -6210992317458043831
+    second: Battle Backgrounds_1378
+  - first:
+      213: -9146843079039312403
+    second: Battle Backgrounds_1379
+  - first:
+      213: 3845962813581751434
+    second: Battle Backgrounds_1380
+  - first:
+      213: -868016202582357042
+    second: Battle Backgrounds_1381
+  - first:
+      213: 4669641878102221903
+    second: Battle Backgrounds_1382
+  - first:
+      213: 52059436611445397
+    second: Battle Backgrounds_1383
+  - first:
+      213: -8375644639715589386
+    second: Battle Backgrounds_1384
+  - first:
+      213: -648559799157565101
+    second: Battle Backgrounds_1385
+  - first:
+      213: -8407863952471547963
+    second: Battle Backgrounds_1386
+  - first:
+      213: 6613529347307477842
+    second: Battle Backgrounds_1387
+  - first:
+      213: -3711012294997298040
+    second: Battle Backgrounds_1388
+  - first:
+      213: 2506300873194045452
+    second: Battle Backgrounds_1389
+  - first:
+      213: 7952474992213776182
+    second: Battle Backgrounds_1390
+  - first:
+      213: -4115205485055410526
+    second: Battle Backgrounds_1391
+  - first:
+      213: -4599181121428246122
+    second: Battle Backgrounds_1392
+  - first:
+      213: -4387309392864016316
+    second: Battle Backgrounds_1393
+  - first:
+      213: -3636034706141953583
+    second: Battle Backgrounds_1394
+  - first:
+      213: 2660936501393640604
+    second: Battle Backgrounds_1395
+  - first:
+      213: 2863004158308793890
+    second: Battle Backgrounds_1396
+  - first:
+      213: -6582473723820400000
+    second: Battle Backgrounds_1397
+  - first:
+      213: -5264012387641556175
+    second: Battle Backgrounds_1398
+  - first:
+      213: -5245093752386318592
+    second: Battle Backgrounds_1399
+  - first:
+      213: 3854368241738092610
+    second: Battle Backgrounds_1400
+  - first:
+      213: -5106296948234180759
+    second: Battle Backgrounds_1401
+  - first:
+      213: -6699873166813822860
+    second: Battle Backgrounds_1402
+  - first:
+      213: 5944223699357253182
+    second: Battle Backgrounds_1403
+  - first:
+      213: -7886296408250809246
+    second: Battle Backgrounds_1404
+  - first:
+      213: 8732773915256768182
+    second: Battle Backgrounds_1405
+  - first:
+      213: -7767389926565741761
+    second: Battle Backgrounds_1406
+  - first:
+      213: -3730673034758072858
+    second: Battle Backgrounds_1407
+  - first:
+      213: -6976905952935114912
+    second: Battle Backgrounds_1408
+  - first:
+      213: 3312655364364400633
+    second: Battle Backgrounds_1409
+  - first:
+      213: 3084270127187682313
+    second: Battle Backgrounds_1410
+  - first:
+      213: 3445317752060396269
+    second: Battle Backgrounds_1411
+  - first:
+      213: 9008732729638909109
+    second: Battle Backgrounds_1412
+  - first:
+      213: 34812224031629861
+    second: Battle Backgrounds_1413
+  - first:
+      213: -3372966828068555963
+    second: Battle Backgrounds_1414
+  - first:
+      213: 8485735853097313413
+    second: Battle Backgrounds_1415
+  - first:
+      213: -1683887520931664782
+    second: Battle Backgrounds_1416
+  - first:
+      213: -4164067116534211077
+    second: Battle Backgrounds_1417
+  - first:
+      213: -6780597896024979259
+    second: Battle Backgrounds_1418
+  - first:
+      213: 8507870584772672897
+    second: Battle Backgrounds_1419
+  - first:
+      213: -658267565406082138
+    second: Battle Backgrounds_1420
+  - first:
+      213: -4248110557295358562
+    second: Battle Backgrounds_1421
+  - first:
+      213: 3360766937752891540
+    second: Battle Backgrounds_1422
+  - first:
+      213: 6233486717832342349
+    second: Battle Backgrounds_1423
+  - first:
+      213: 5100741208475570426
+    second: Battle Backgrounds_1424
+  - first:
+      213: -7643288205127608410
+    second: Battle Backgrounds_1425
+  - first:
+      213: 301029308886478233
+    second: Battle Backgrounds_1426
+  - first:
+      213: 6823357768416579462
+    second: Battle Backgrounds_1427
+  - first:
+      213: 5730752361722406854
+    second: Battle Backgrounds_1428
+  - first:
+      213: -8482295008242757476
+    second: Battle Backgrounds_1429
+  - first:
+      213: -4699989806863096506
+    second: Battle Backgrounds_1430
+  - first:
+      213: 7886643231958512225
+    second: Battle Backgrounds_1431
+  - first:
+      213: -8560426539691329099
+    second: Battle Backgrounds_1432
+  - first:
+      213: -5738385169875276948
+    second: Battle Backgrounds_1433
+  - first:
+      213: 6747027485213707906
+    second: Battle Backgrounds_1434
+  - first:
+      213: -5657671554424013186
+    second: Battle Backgrounds_1435
+  - first:
+      213: -7400270766919637640
+    second: Battle Backgrounds_1436
+  - first:
+      213: 7251488436287013309
+    second: Battle Backgrounds_1437
+  - first:
+      213: 5763509299221937837
+    second: Battle Backgrounds_1438
+  - first:
+      213: 8049381871599521971
+    second: Battle Backgrounds_1439
+  - first:
+      213: 2201672049848369835
+    second: Battle Backgrounds_1440
+  - first:
+      213: -297510904375601580
+    second: Battle Backgrounds_1441
+  - first:
+      213: 2690024147717612055
+    second: Battle Backgrounds_1442
+  - first:
+      213: 2726202756693876545
+    second: Battle Backgrounds_1443
+  - first:
+      213: -8559168850747607667
+    second: Battle Backgrounds_1444
+  - first:
+      213: -6178765417891300876
+    second: Battle Backgrounds_1445
+  - first:
+      213: 1653607379365421480
+    second: Battle Backgrounds_1446
+  - first:
+      213: 3919603051439662426
+    second: Battle Backgrounds_1447
+  - first:
+      213: -1491048246329808460
+    second: Battle Backgrounds_1448
+  - first:
+      213: -3070385863100491107
+    second: Battle Backgrounds_1449
+  - first:
+      213: 8856576480802965896
+    second: Battle Backgrounds_1450
+  - first:
+      213: 6172869192209282958
+    second: Battle Backgrounds_1451
+  - first:
+      213: 3909441643504085687
+    second: Battle Backgrounds_1452
+  - first:
+      213: -6853211730595945426
+    second: Battle Backgrounds_1453
+  - first:
+      213: -4248545215448135764
+    second: Battle Backgrounds_1454
+  - first:
+      213: 1552493224426805927
+    second: Battle Backgrounds_1455
+  - first:
+      213: 6001904219945404619
+    second: Battle Backgrounds_1456
+  - first:
+      213: -8054739104123733356
+    second: Battle Backgrounds_1457
+  - first:
+      213: 5067310642903266183
+    second: Battle Backgrounds_1458
+  - first:
+      213: -7598264670850367326
+    second: Battle Backgrounds_1459
+  - first:
+      213: 3217118596388357648
+    second: Battle Backgrounds_1460
+  - first:
+      213: -6534376410477437710
+    second: Battle Backgrounds_1461
+  - first:
+      213: -3441343303610728674
+    second: Battle Backgrounds_1462
+  - first:
+      213: -7551287367962102477
+    second: Battle Backgrounds_1463
+  - first:
+      213: 2598620149043198907
+    second: Battle Backgrounds_1464
+  - first:
+      213: 102354754405305306
+    second: Battle Backgrounds_1465
+  - first:
+      213: -3687335838682909959
+    second: Battle Backgrounds_1466
+  - first:
+      213: -6357979892972921147
+    second: Battle Backgrounds_1467
+  - first:
+      213: -3554985375521044850
+    second: Battle Backgrounds_1468
+  - first:
+      213: -7359982409919873469
+    second: Battle Backgrounds_1469
+  - first:
+      213: 2086469421534273572
+    second: Battle Backgrounds_1470
+  - first:
+      213: -6848323970908020677
+    second: Battle Backgrounds_1471
+  - first:
+      213: 7916972345200525512
+    second: Battle Backgrounds_1472
+  - first:
+      213: 7286083861720075848
+    second: Battle Backgrounds_1473
+  - first:
+      213: -5480733394853626640
+    second: Battle Backgrounds_1474
+  - first:
+      213: 8978025609626942859
+    second: Battle Backgrounds_1475
+  - first:
+      213: -3679595259175746901
+    second: Battle Backgrounds_1476
+  - first:
+      213: -6001237128013387405
+    second: Battle Backgrounds_1477
+  - first:
+      213: -802431693597165823
+    second: Battle Backgrounds_1478
+  - first:
+      213: 755322765162219806
+    second: Battle Backgrounds_1479
+  - first:
+      213: 3173778021345078767
+    second: Battle Backgrounds_1480
+  - first:
+      213: -791681852346014408
+    second: Battle Backgrounds_1481
+  - first:
+      213: 7033950642214390630
+    second: Battle Backgrounds_1482
+  - first:
+      213: -2899495375868309577
+    second: Battle Backgrounds_1483
+  - first:
+      213: -1764280259739171670
+    second: Battle Backgrounds_1484
+  - first:
+      213: 3563506985609115310
+    second: Battle Backgrounds_1485
+  - first:
+      213: 6373528859781885519
+    second: Battle Backgrounds_1486
+  - first:
+      213: 9013530871978311927
+    second: Battle Backgrounds_1487
+  - first:
+      213: -423735851643781737
+    second: Battle Backgrounds_1488
+  - first:
+      213: 4729791534671839416
+    second: Battle Backgrounds_1489
+  - first:
+      213: 5430482593377807035
+    second: Battle Backgrounds_1490
+  - first:
+      213: 6382700961452457210
+    second: Battle Backgrounds_1491
+  - first:
+      213: 8113076148608244792
+    second: Battle Backgrounds_1492
+  - first:
+      213: -3488508062545358526
+    second: Battle Backgrounds_1493
+  - first:
+      213: -8570931896204531677
+    second: Battle Backgrounds_1494
+  - first:
+      213: 4546565131223369279
+    second: Battle Backgrounds_1495
+  - first:
+      213: -7024203691158032871
+    second: Battle Backgrounds_1496
+  - first:
+      213: 2371751057273271367
+    second: Battle Backgrounds_1497
+  - first:
+      213: -7637877867217512462
+    second: Battle Backgrounds_1498
+  - first:
+      213: 6413865741757884782
+    second: Battle Backgrounds_1499
+  - first:
+      213: -6044305025874928251
+    second: Battle Backgrounds_1500
+  - first:
+      213: -6686779905796377333
+    second: Battle Backgrounds_1501
+  - first:
+      213: -7193297185609007058
+    second: Battle Backgrounds_1502
+  - first:
+      213: -6512167621521467237
+    second: Battle Backgrounds_1503
+  - first:
+      213: 4943758602873787600
+    second: Battle Backgrounds_1504
+  - first:
+      213: -8205764919223934457
+    second: Battle Backgrounds_1505
+  - first:
+      213: -2990002583048805732
+    second: Battle Backgrounds_1506
+  - first:
+      213: 1878672775939334785
+    second: Battle Backgrounds_1507
+  - first:
+      213: -548426729158359438
+    second: Battle Backgrounds_1508
+  - first:
+      213: 7553015659609474828
+    second: Battle Backgrounds_1509
+  - first:
+      213: 2582712348538498416
+    second: Battle Backgrounds_1510
+  - first:
+      213: 4837650947588794355
+    second: Battle Backgrounds_1511
+  - first:
+      213: 8781795878223829834
+    second: Battle Backgrounds_1512
+  - first:
+      213: -3259122168500724765
+    second: Battle Backgrounds_1513
+  - first:
+      213: 6030227465515314248
+    second: Battle Backgrounds_1514
+  - first:
+      213: 5683749244718381352
+    second: Battle Backgrounds_1515
+  - first:
+      213: -5876731881982535180
+    second: Battle Backgrounds_1516
+  - first:
+      213: -8599401595808947781
+    second: Battle Backgrounds_1517
+  - first:
+      213: 8168321887715873872
+    second: Battle Backgrounds_1518
+  - first:
+      213: 2119011299208397153
+    second: Battle Backgrounds_1519
+  - first:
+      213: -7711435757644943028
+    second: Battle Backgrounds_1520
+  - first:
+      213: -8751453247234193631
+    second: Battle Backgrounds_1521
+  - first:
+      213: -7263699738314086702
+    second: Battle Backgrounds_1522
+  - first:
+      213: 575199816594879722
+    second: Battle Backgrounds_1523
+  - first:
+      213: -1472235085808350567
+    second: Battle Backgrounds_1524
+  - first:
+      213: -1564940403668956901
+    second: Battle Backgrounds_1525
+  - first:
+      213: 3109492954779964491
+    second: Battle Backgrounds_1526
+  - first:
+      213: -5383601705210580394
+    second: Battle Backgrounds_1527
+  - first:
+      213: -1698310575872519282
+    second: Battle Backgrounds_1528
+  - first:
+      213: -8555435289700906328
+    second: Battle Backgrounds_1529
+  - first:
+      213: 9021588816955933776
+    second: Battle Backgrounds_1530
+  - first:
+      213: -4279502920536787282
+    second: Battle Backgrounds_1531
+  - first:
+      213: -2006024315002106432
+    second: Battle Backgrounds_1532
+  - first:
+      213: 3114479270362042060
+    second: Battle Backgrounds_1533
+  - first:
+      213: 2240313010790062
+    second: Battle Backgrounds_1534
+  - first:
+      213: 2928477936917460204
+    second: Battle Backgrounds_1535
+  - first:
+      213: 8902540743918391037
+    second: Battle Backgrounds_1536
+  - first:
+      213: 6906716612679401712
+    second: Battle Backgrounds_1537
+  - first:
+      213: 632038612533858191
+    second: Battle Backgrounds_1538
+  - first:
+      213: 4422496679358261092
+    second: Battle Backgrounds_1539
+  - first:
+      213: 6880142891744702925
+    second: Battle Backgrounds_1540
+  - first:
+      213: 4179149752358749282
+    second: Battle Backgrounds_1541
+  - first:
+      213: -700214962792699492
+    second: Battle Backgrounds_1542
+  - first:
+      213: 373646929348662048
+    second: Battle Backgrounds_1543
+  - first:
+      213: 3432694994318063907
+    second: Battle Backgrounds_1544
+  - first:
+      213: 6880155874121476919
+    second: Battle Backgrounds_1545
+  - first:
+      213: -727383624496766297
+    second: Battle Backgrounds_1546
+  - first:
+      213: 7373548909670843964
+    second: Battle Backgrounds_1547
+  - first:
+      213: -1433278689505910909
+    second: Battle Backgrounds_1548
+  - first:
+      213: -3323681457558906955
+    second: Battle Backgrounds_1549
+  - first:
+      213: -1574335998374496291
+    second: Battle Backgrounds_1550
+  - first:
+      213: 12725754660465458
+    second: Battle Backgrounds_1551
+  - first:
+      213: -6176544376318909598
+    second: Battle Backgrounds_1552
+  - first:
+      213: -5048843362699904463
+    second: Battle Backgrounds_1553
+  - first:
+      213: -4394060365980842484
+    second: Battle Backgrounds_1554
+  - first:
+      213: -4778728525483131246
+    second: Battle Backgrounds_1555
+  - first:
+      213: 2523313056005803756
+    second: Battle Backgrounds_1556
+  - first:
+      213: -8351265006270982801
+    second: Battle Backgrounds_1557
+  - first:
+      213: -6368292675377157499
+    second: Battle Backgrounds_1558
+  - first:
+      213: 7267409267238572434
+    second: Battle Backgrounds_1559
+  - first:
+      213: 2779289662724879806
+    second: Battle Backgrounds_1560
+  - first:
+      213: 4704225688179342427
+    second: Battle Backgrounds_1561
+  - first:
+      213: 1778996578717034219
+    second: Battle Backgrounds_1562
+  - first:
+      213: 3252948946036004910
+    second: Battle Backgrounds_1563
+  - first:
+      213: 3433576349611549465
+    second: Battle Backgrounds_1564
+  - first:
+      213: 4755580525909659280
+    second: Battle Backgrounds_1565
+  - first:
+      213: 6539895689363052103
+    second: Battle Backgrounds_1566
+  - first:
+      213: 1050702455462243306
+    second: Battle Backgrounds_1567
+  - first:
+      213: -5987877061918067792
+    second: Battle Backgrounds_1568
+  - first:
+      213: 7431259856328696521
+    second: Battle Backgrounds_1569
+  - first:
+      213: 6777446280675303330
+    second: Battle Backgrounds_1570
+  - first:
+      213: -1266236769816111229
+    second: Battle Backgrounds_1571
+  - first:
+      213: -8404377646846930969
+    second: Battle Backgrounds_1572
+  - first:
+      213: 5636082100706423137
+    second: Battle Backgrounds_1573
+  - first:
+      213: 7295726904565889439
+    second: Battle Backgrounds_1574
+  - first:
+      213: 5551867195249334342
+    second: Battle Backgrounds_1575
+  - first:
+      213: -7414814784020134808
+    second: Battle Backgrounds_1576
+  - first:
+      213: -4259229890859987901
+    second: Battle Backgrounds_1577
+  - first:
+      213: -6024728189071420902
+    second: Battle Backgrounds_1578
+  - first:
+      213: -6573110835368618462
+    second: Battle Backgrounds_1579
+  - first:
+      213: 2284852519536484476
+    second: Battle Backgrounds_1580
+  - first:
+      213: 1001316534937462175
+    second: Battle Backgrounds_1581
+  - first:
+      213: -7124646277534255075
+    second: Battle Backgrounds_1582
+  - first:
+      213: 7114535868866420608
+    second: Battle Backgrounds_1583
+  - first:
+      213: -4430925273140215498
+    second: Battle Backgrounds_1584
+  - first:
+      213: -8400338375573639201
+    second: Battle Backgrounds_1585
+  - first:
+      213: -968751028459410178
+    second: Battle Backgrounds_1586
+  - first:
+      213: -8734763091833613266
+    second: Battle Backgrounds_1587
+  - first:
+      213: -3527808407338815094
+    second: Battle Backgrounds_1588
+  - first:
+      213: 5052763557776394595
+    second: Battle Backgrounds_1589
+  - first:
+      213: -1195458819550466798
+    second: Battle Backgrounds_1590
+  - first:
+      213: -5436303944280338077
+    second: Battle Backgrounds_1591
+  - first:
+      213: -2023399955720672685
+    second: Battle Backgrounds_1592
+  - first:
+      213: 5111763397442347848
+    second: Battle Backgrounds_1593
+  - first:
+      213: 3555531281708374885
+    second: Battle Backgrounds_1594
+  - first:
+      213: 1606067806011689810
+    second: Battle Backgrounds_1595
+  - first:
+      213: -1961332371949311572
+    second: Battle Backgrounds_1596
+  - first:
+      213: 74849349685422511
+    second: Battle Backgrounds_1597
+  - first:
+      213: -7497368004203974930
+    second: Battle Backgrounds_1598
+  - first:
+      213: -8784467047812374841
+    second: Battle Backgrounds_1599
+  - first:
+      213: 4430560125614858902
+    second: Battle Backgrounds_1600
+  - first:
+      213: 2500280155796476420
+    second: Battle Backgrounds_1601
+  - first:
+      213: 6287391173192372048
+    second: Battle Backgrounds_1602
+  - first:
+      213: -9015567724392831108
+    second: Battle Backgrounds_1603
+  - first:
+      213: 257056352334116176
+    second: Battle Backgrounds_1604
+  - first:
+      213: 6348067319868198280
+    second: Battle Backgrounds_1605
+  - first:
+      213: 791479903853120875
+    second: Battle Backgrounds_1606
+  - first:
+      213: 342249301556909276
+    second: Battle Backgrounds_1607
+  - first:
+      213: -7359084272427240440
+    second: Battle Backgrounds_1608
+  - first:
+      213: 6682151410053933285
+    second: Battle Backgrounds_1609
+  - first:
+      213: 9173931246666131035
+    second: Battle Backgrounds_1610
+  - first:
+      213: -2754510315891953973
+    second: Battle Backgrounds_1611
+  - first:
+      213: 3769052788951379158
+    second: Battle Backgrounds_1612
+  - first:
+      213: 4275498354331187206
+    second: Battle Backgrounds_1613
+  - first:
+      213: -5629469233619154336
+    second: Battle Backgrounds_1614
+  - first:
+      213: 8169582940219772808
+    second: Battle Backgrounds_1615
+  - first:
+      213: -691536498841629553
+    second: Battle Backgrounds_1616
+  - first:
+      213: -7835101729400365008
+    second: Battle Backgrounds_1617
+  - first:
+      213: -7431262724317757645
+    second: Battle Backgrounds_1618
+  - first:
+      213: 2126287115272615836
+    second: Battle Backgrounds_1619
+  - first:
+      213: -2493644735850896649
+    second: Battle Backgrounds_1620
+  - first:
+      213: 792421357225030826
+    second: Battle Backgrounds_1621
+  - first:
+      213: 8122251948937431850
+    second: Battle Backgrounds_1622
+  - first:
+      213: -7503530806972252571
+    second: Battle Backgrounds_1623
+  - first:
+      213: 4493092334493837968
+    second: Battle Backgrounds_1624
+  - first:
+      213: 69815311175084598
+    second: Battle Backgrounds_1625
+  - first:
+      213: -5391300487673203138
+    second: Battle Backgrounds_1626
+  - first:
+      213: 2383961344351796452
+    second: Battle Backgrounds_1627
+  - first:
+      213: 4225596398730732584
+    second: Battle Backgrounds_1628
+  - first:
+      213: -3584083892475256925
+    second: Battle Backgrounds_1629
+  - first:
+      213: 3117934304807611663
+    second: Battle Backgrounds_1630
+  - first:
+      213: -8515650914226033192
+    second: Battle Backgrounds_1631
+  - first:
+      213: -3145752124103241137
+    second: Battle Backgrounds_1632
+  - first:
+      213: 3144103083679911422
+    second: Battle Backgrounds_1633
+  - first:
+      213: 7799968941472394619
+    second: Battle Backgrounds_1634
+  - first:
+      213: 3997661228002097512
+    second: Battle Backgrounds_1635
+  - first:
+      213: 121692420181496317
+    second: Battle Backgrounds_1636
+  - first:
+      213: -9163430540706820913
+    second: Battle Backgrounds_1637
+  - first:
+      213: 5877652910467671246
+    second: Battle Backgrounds_1638
+  - first:
+      213: 8580848702751742612
+    second: Battle Backgrounds_1639
+  - first:
+      213: 102072560860905291
+    second: Battle Backgrounds_1640
+  - first:
+      213: 7847813030929804730
+    second: Battle Backgrounds_1641
+  - first:
+      213: 5286369557041590933
+    second: Battle Backgrounds_1642
+  - first:
+      213: 7727851390460027292
+    second: Battle Backgrounds_1643
+  - first:
+      213: -4145302566063496078
+    second: Battle Backgrounds_1644
+  - first:
+      213: 779443912337075287
+    second: Battle Backgrounds_1645
+  - first:
+      213: -714774827563212886
+    second: Battle Backgrounds_1646
+  - first:
+      213: -3170388401133918529
+    second: Battle Backgrounds_1647
+  - first:
+      213: -8307158886003059623
+    second: Battle Backgrounds_1648
+  - first:
+      213: -5068123045566320069
+    second: Battle Backgrounds_1649
+  - first:
+      213: 2720330575613130410
+    second: Battle Backgrounds_1650
+  - first:
+      213: -9156223356215850553
+    second: Battle Backgrounds_1651
+  - first:
+      213: -3334189587792631665
+    second: Battle Backgrounds_1652
+  - first:
+      213: -7784308718469403880
+    second: Battle Backgrounds_1653
+  - first:
+      213: -496231007256758994
+    second: Battle Backgrounds_1654
+  - first:
+      213: 651194783283490307
+    second: Battle Backgrounds_1655
+  - first:
+      213: 5438448141440240500
+    second: Battle Backgrounds_1656
+  - first:
+      213: -7540789651703657831
+    second: Battle Backgrounds_1657
+  - first:
+      213: 1390030830587146666
+    second: Battle Backgrounds_1658
+  - first:
+      213: 1243201532624578622
+    second: Battle Backgrounds_1659
+  - first:
+      213: -4153712515861287212
+    second: Battle Backgrounds_1660
+  - first:
+      213: -582509026499882053
+    second: Battle Backgrounds_1661
+  - first:
+      213: -2736183883392742203
+    second: Battle Backgrounds_1662
+  - first:
+      213: -1025637027747713952
+    second: Battle Backgrounds_1663
+  - first:
+      213: 5455684067717970165
+    second: Battle Backgrounds_1664
+  - first:
+      213: -8502090382345288131
+    second: Battle Backgrounds_1665
+  - first:
+      213: 5348351259576319705
+    second: Battle Backgrounds_1666
+  - first:
+      213: 8537372772784960627
+    second: Battle Backgrounds_1667
+  - first:
+      213: -4205363748812013195
+    second: Battle Backgrounds_1668
+  - first:
+      213: 6359147105921919547
+    second: Battle Backgrounds_1669
+  - first:
+      213: 8415066099130331568
+    second: Battle Backgrounds_1670
+  - first:
+      213: 4079043116137065100
+    second: Battle Backgrounds_1671
+  - first:
+      213: -3837714842199999993
+    second: Battle Backgrounds_1672
+  - first:
+      213: -8750279928861991550
+    second: Battle Backgrounds_1673
+  - first:
+      213: -216453995430133967
+    second: Battle Backgrounds_1674
+  - first:
+      213: -7015685038957304713
+    second: Battle Backgrounds_1675
+  - first:
+      213: -6798068242409536858
+    second: Battle Backgrounds_1676
+  - first:
+      213: -7114531736526960330
+    second: Battle Backgrounds_1677
+  - first:
+      213: -8200737535982962508
+    second: Battle Backgrounds_1678
+  - first:
+      213: 2148570949452721673
+    second: Battle Backgrounds_1679
+  - first:
+      213: 6069170112505976730
+    second: Battle Backgrounds_1680
+  - first:
+      213: 6314098949177788950
+    second: Battle Backgrounds_1681
+  - first:
+      213: 8799474313544947229
+    second: Battle Backgrounds_1682
+  - first:
+      213: -2237160152676126181
+    second: Battle Backgrounds_1683
+  - first:
+      213: -4146226660467638741
+    second: Battle Backgrounds_1684
+  - first:
+      213: 5320075717597107878
+    second: Battle Backgrounds_1685
+  - first:
+      213: -6758031367091560275
+    second: Battle Backgrounds_1686
+  - first:
+      213: -3686739777928770072
+    second: Battle Backgrounds_1687
+  - first:
+      213: 8955177241711490787
+    second: Battle Backgrounds_1688
+  - first:
+      213: -8968188221243035259
+    second: Battle Backgrounds_1689
+  - first:
+      213: -857576740119103133
+    second: Battle Backgrounds_1690
+  - first:
+      213: -5719809629788807685
+    second: Battle Backgrounds_1691
+  - first:
+      213: -6818127688984731935
+    second: Battle Backgrounds_1692
+  - first:
+      213: 5148692893206887913
+    second: Battle Backgrounds_1693
+  - first:
+      213: -1554594794280288807
+    second: Battle Backgrounds_1694
+  - first:
+      213: -5991057059609373625
+    second: Battle Backgrounds_1695
+  - first:
+      213: -2766296676505766331
+    second: Battle Backgrounds_1696
+  - first:
+      213: -295705059517202343
+    second: Battle Backgrounds_1697
+  - first:
+      213: 8059254713107610027
+    second: Battle Backgrounds_1698
+  - first:
+      213: -7736217212710230577
+    second: Battle Backgrounds_1699
+  - first:
+      213: -1905987140732022356
+    second: Battle Backgrounds_1700
+  - first:
+      213: -3199396956573855724
+    second: Battle Backgrounds_1701
+  - first:
+      213: 1004144343969136605
+    second: Battle Backgrounds_1702
+  - first:
+      213: 5154977709866532452
+    second: Battle Backgrounds_1703
+  - first:
+      213: 6656889715172516952
+    second: Battle Backgrounds_1704
+  - first:
+      213: -8642262461089396436
+    second: Battle Backgrounds_1705
+  - first:
+      213: -9137346906417226456
+    second: Battle Backgrounds_1706
+  - first:
+      213: -8923005864984697231
+    second: Battle Backgrounds_1707
+  - first:
+      213: 4841702047220026223
+    second: Battle Backgrounds_1708
+  - first:
+      213: -8521138211792383109
+    second: Battle Backgrounds_1709
+  - first:
+      213: 7724329214790161613
+    second: Battle Backgrounds_1710
+  - first:
+      213: 2046776105318955254
+    second: Battle Backgrounds_1711
+  - first:
+      213: 1772244005950783464
+    second: Battle Backgrounds_1712
+  - first:
+      213: -3480487433097787890
+    second: Battle Backgrounds_1713
+  - first:
+      213: -3488481775584785269
+    second: Battle Backgrounds_1714
+  - first:
+      213: 5643377489064031894
+    second: Battle Backgrounds_1715
+  - first:
+      213: 7062896723799115720
+    second: Battle Backgrounds_1716
+  - first:
+      213: 4448741751358120529
+    second: Battle Backgrounds_1717
+  - first:
+      213: -7353991386851716768
+    second: Battle Backgrounds_1718
+  - first:
+      213: -164858077205019611
+    second: Battle Backgrounds_1719
+  - first:
+      213: 7177070334282156825
+    second: Battle Backgrounds_1720
+  - first:
+      213: 2620514728034903828
+    second: Battle Backgrounds_1721
+  - first:
+      213: 3928012674409069541
+    second: Battle Backgrounds_1722
+  - first:
+      213: -4938377236312786169
+    second: Battle Backgrounds_1723
+  - first:
+      213: -7098379765694841479
+    second: Battle Backgrounds_1724
+  - first:
+      213: 6762586582260216994
+    second: Battle Backgrounds_1725
+  - first:
+      213: -5396645513550217092
+    second: Battle Backgrounds_1726
+  - first:
+      213: -3835653896872685537
+    second: Battle Backgrounds_1727
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 441
+        width: 252
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8162be75b64e8810800000000000000
+      internalID: 1769429448931828106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 438.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6584d297145eb0800000000000000
+      internalID: -4732131389061371210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 438.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacb309b472d3a4c0800000000000000
+      internalID: -4277343822309770070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b1193a5831e6f0800000000000000
+      internalID: -657182110463708883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 292.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310e422516253a6e0800000000000000
+      internalID: -1827526445838835693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 292.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a928b62273e5d30800000000000000
+      internalID: 4422032505096542742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84064f21c5b3620800000000000000
+      internalID: 2754896833546307751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 146.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96fdd0aebe1b5f00800000000000000
+      internalID: 1106511937541109406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 146.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85920a896b91e40800000000000000
+      internalID: 5627729976014493891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b40085104647c700800000000000000
+      internalID: 560493919683478708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aac6b3c85f2fd30800000000000000
+      internalID: 4463900163318786688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0.75
+        width: 258.33334
+        height: 146.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46caf6220364ea840800000000000000
+      internalID: 5237200589228584036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

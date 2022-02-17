@@ -5,7 +5,8 @@ using UnityEngine;
 
 public class PokemonParty : MonoBehaviour
 {
-    [SerializeField] List <Pokemon> pokemons;
+    [SerializeField] private List <Pokemon> pokemons;
+    //private List <Pokemon> pokemons;
 
     private void Start()
     {
@@ -24,4 +25,14 @@ public class PokemonParty : MonoBehaviour
     {
         return pokemons;
     }
+
+    // public void AddPokemon (Pokemon pokemon)
+    // {
+    //     pokemons.Add(pokemon);
+    // }
+
+    // public void RemovePokemon (Pokemon pokemon)
+    // {
+    //     pokemons.Remove(pokemon);
+    // }
 }

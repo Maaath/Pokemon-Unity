@@ -6,6 +6,7 @@ using UnityEngine;
 public class NetworkManager : MonoBehaviourPunCallbacks
 {
     public static NetworkManager Instance { get; private set; }
+    //private PokemonParty scene1;
     private void Awake() 
     {
         if (Instance != null && Instance != this)
@@ -46,6 +47,12 @@ public class NetworkManager : MonoBehaviourPunCallbacks
         var list = "Charmander"+"\n"+"Pikachu"+"\n";
         return list;
     }
+
+    //  void Add () 
+    //  {
+    //      scene1 = GameObject.Find("Script").GetComponent<Scene1>();
+    //      scene1.TestCall();
+    //  }
 
     public bool OwnerRoom()
     {

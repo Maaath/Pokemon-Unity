@@ -39,6 +39,8 @@ public class Pokemon
 
     public int HP { get; set; }
 
+    //public bool Selected{ get; set; }
+
     public void Init(){
 
         Moves = new List<Move>();

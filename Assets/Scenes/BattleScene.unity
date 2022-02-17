@@ -153,7 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pokemons:
-  - _base: {fileID: 11400000, guid: 891eea676e3ad1346b26364d224171de, type: 2}
+  - _base: {fileID: 11400000, guid: 80a1f8d3dabbdd84eabd25a13a1bc408, type: 2}
     level: 7
 --- !u!4 &249658850
 Transform:
@@ -504,7 +504,7 @@ MonoBehaviour:
   enemyUnit: {fileID: 1944608331}
   dialogBox: {fileID: 881976975}
   wildPokemon:
-    _base: {fileID: 11400000, guid: 9862104efab3e0d499ed65c037658ac5, type: 2}
+    _base: {fileID: 11400000, guid: 80a1f8d3dabbdd84eabd25a13a1bc408, type: 2}
     level: 10
   playerParty: {fileID: 249658849}
   player1Image: {fileID: 329866171}

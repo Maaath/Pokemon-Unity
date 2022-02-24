@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using Photon.Pun;
 
 public class PokemonParty : MonoBehaviour
 {
@@ -9,10 +10,13 @@ public class PokemonParty : MonoBehaviour
     //private List <Pokemon> pokemons;
 
     private void Start()
-    {
+    {   
         foreach (var pokemon in pokemons)
-        {
-            pokemon.Init(); 
+        {   
+            if(PhotonNetwork.NickName == pokemon.Base.Name)
+            {
+            pokemon.Init();
+            } 
         }
     }
 

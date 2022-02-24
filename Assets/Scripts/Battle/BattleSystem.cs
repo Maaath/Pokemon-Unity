@@ -2,12 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Photon.Pun;
 
 
 public enum BattleState {Start, ActionSelection, MoveSelection, RunningTurn, Busy, BattleOver}
 public enum BatteAction { Move, UseItem, Run }
 
-public class BattleSystem : MonoBehaviour
+public class BattleSystem : MonoBehaviourPunCallbacks
 {
     [SerializeField] BattleUnit playerUnit;
     //[SerializeField] BattleHud playerHud;
@@ -29,11 +30,17 @@ public class BattleSystem : MonoBehaviour
         StartCoroutine(SetupBattle());
     }
 
+    // public void setPokemon (PokemonParty newPokemonParty) {
+    //     playerParty = newPokemonParty;
+    // }
+
     public IEnumerator SetupBattle() 
     {   
+        Debug.Log(PhotonNetwork.NickName);
         //playerUnit.gameObject.SetActive(false);
         //startando as condições de status
         ConditionsDB.Init();
+
 
         wildPokemon.Init(); // Remover esta linha quando adicionar player 2
 

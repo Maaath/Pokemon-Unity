@@ -48,4 +48,9 @@ public class Menu : MonoBehaviourPunCallbacks
     {
         NetworkManager.Instance.photonView.RPC("StartGame", RpcTarget.All, nameScene);
     }
+    public void PlayerPokemon(string pokemonName)
+    {   
+        //Debug.Log(pokemonName);
+        NetworkManager.Instance.PokemonsSelected(pokemonName);
+    }
 }

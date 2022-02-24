@@ -42,10 +42,10 @@ public class NetworkManager : MonoBehaviourPunCallbacks
         PhotonNetwork.NickName = nickName;
     }
 
-    public string PokemonsList()
-    {
-        var list = "Charmander"+"\n"+"Pikachu"+"\n";
-        return list;
+    public bool PokemonsSelected(string name)
+    {    
+        PhotonNetwork.NickName = name;    
+        return true;
     }
 
     //  void Add () 

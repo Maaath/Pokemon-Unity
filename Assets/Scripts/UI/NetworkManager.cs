@@ -24,12 +24,12 @@ public class NetworkManager : MonoBehaviourPunCallbacks
 
     public override void OnConnectedToMaster()
     {
-        Debug.Log("Connected!");
+        Debug.Log("Connected to Server!");
     }
 
     public void CreateRoom (string nameRoom)
     {
-        PhotonNetwork.CreateRoom(nameRoom);
+        PhotonNetwork.JoinOrCreateRoom(nameRoom,null,null,null);
     }
 
     public void EnterRoom (string nameRoom)

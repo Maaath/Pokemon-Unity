@@ -20,7 +20,7 @@ public class Menu : MonoBehaviourPunCallbacks
         
     }
     public override void OnJoinedRoom()
-    {
+    {   Debug.Log("Entrou");
         ChangeMenu(menuLobby.gameObject);
         menuLobby.photonView.RPC("AttPokemonList", RpcTarget.All);
     }

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Photon.Pun;
 
 public class EnterMenu : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class EnterMenu : MonoBehaviour
     {
         NetworkManager.Instance.ChangeNick(nickName.text);
         NetworkManager.Instance.CreateRoom("testRoom");
+        
     }
 
     public void EnterRoom()

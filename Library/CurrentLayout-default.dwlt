@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 877, y: 592}
-  m_MaxSize: {x: 12004, y: 8042}
+  m_MinSize: {x: 876, y: 592}
+  m_MaxSize: {x: 12003, y: 8042}
   vertical: 0
-  controlID: 120
+  controlID: 18
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 527
     height: 731
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -153,7 +153,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 875, y: 642}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -274,8 +274,8 @@ MonoBehaviour:
     y: 0
     width: 663
     height: 359
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 18}
@@ -411,7 +411,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 89}
     m_SelectedIDs: 3a570000
     m_LastClickedID: 22330
-    m_ExpandedIDs: 00000000924600009446000096460000984600009a4600009c4600009e460000
+    m_ExpandedIDs: 00000000d2460000d4460000d6460000d8460000da460000dc460000de460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -439,7 +439,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000924600009446000096460000984600009a4600009c4600009e460000
+    m_ExpandedIDs: 00000000d2460000d4460000d6460000d8460000da460000dc460000de460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,7 +562,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6cb5ffff84b5ffff86b6ffff8ab6ffff40fbffff42fbffff26440000564400001a450000264500005c450000d6450000da450000fa45000020c9000088c90000
+      m_ExpandedIDs: 40fbffff42fbffff26440000564400006a450000ac450000264600002a4600004a460000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

@@ -30,4 +30,4 @@ MonoBehaviour:
     status: 0
     volatileStatus: 0
   secondaries: []
-  target: 0
+  target: 1

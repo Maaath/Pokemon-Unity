@@ -24,8 +24,11 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -334,7 +337,7 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
-      Hash: d600a50a51daeb4846595568c9948203
+      Hash: a18f58769422e5c8e8385809e8eb574c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PokemonParty
@@ -604,7 +607,7 @@ ScriptsOnlyBuild:
     className: OnClickDestroy
   - hash:
       serializedVersion: 2
-      Hash: 67d9729566f29e691eff43d7b0ec8bab
+      Hash: cd55ab8c3b64d76d0768249940628496
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: BattleSystem
@@ -1008,4 +1011,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/BattleScene.unity
-  playerPath: C:/Users/mathe/Desktop/Build/Test Turn Game.exe
+  playerPath: C:/Users/mathe/Desktop/Build/Pokemon Online.exe

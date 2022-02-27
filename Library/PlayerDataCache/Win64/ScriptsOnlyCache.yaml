@@ -24,18 +24,14 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
     - UnityEditor.Tilemaps.TilemapPrefabStageHelper
     Unity.CollabProxy.Editor.dll:
     - Unity.Cloud.Collaborate.UserInterface.CollaborateWindow
-    - Unity.Cloud.Collaborate.UserInterface.WindowCache
     Unity.PlasticSCM.Editor.dll:
     - Unity.PlasticSCM.Editor.PlasticWindow
     Unity.Rider.Editor.dll:

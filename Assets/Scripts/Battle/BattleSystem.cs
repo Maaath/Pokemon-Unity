@@ -15,7 +15,8 @@ public class BattleSystem : MonoBehaviourPunCallbacks
     [SerializeField] BattleUnit enemyUnit;
     //[SerializeField] BattleHud enemyHud;
     [SerializeField] BattleDialogBox dialogBox;
-    [SerializeField] Pokemon wildPokemon; // Nao temos um mapa (sem wildPokemons)
+    //[SerializeField] Pokemon wildPokemon; // Nao temos um mapa (sem wildPokemons)
+    //[SerializeField] Pokemon wildPokemon;
     [SerializeField] PokemonParty playerParty;
     [SerializeField] Image player1Image;
     [SerializeField] Image player2Image;
@@ -41,8 +42,7 @@ public class BattleSystem : MonoBehaviourPunCallbacks
         //startando as condições de status
         ConditionsDB.Init();
 
-
-        wildPokemon.Init(); // Remover esta linha quando adicionar player 2
+        //wildPokemon.Init(); // Remover esta linha quando adicionar player 2
 
         player1Image.gameObject.SetActive(true);
         player2Image.gameObject.SetActive(true);
@@ -56,7 +56,7 @@ public class BattleSystem : MonoBehaviourPunCallbacks
         
 
         playerUnit.Setup(playerParty.GetHelthyPokemon());
-        enemyUnit.Setup(wildPokemon);
+        enemyUnit.Setup(playerParty.GetHelthyWildPokemon());
 
         dialogBox.SetMoveNames(playerUnit.Pokemon.Moves);
 
@@ -252,10 +252,17 @@ public class BattleSystem : MonoBehaviourPunCallbacks
         yield return dialogBox.TypeDialog($"{sourceUnit.Pokemon.Base.Name} usou {move.Base.Name}.");
 
         if (CheckIfMoveHits(move, sourceUnit.Pokemon, targetUnit.Pokemon)){
-            sourceUnit.PlayAttackAnimation();
-            yield return new WaitForSeconds(1f);
 
-            targetUnit.PlayHitAnimation();
+            if(move.Base.Target == MoveTarget.Foe)
+            {
+                sourceUnit.PlayAttackAnimation();
+                yield return new WaitForSeconds(1f);
+                targetUnit.PlayHitAnimation();
+            }
+            else
+            {
+                sourceUnit.PlayHitAnimation();
+            }
 
             if (move.Base.Category == MoveCategory.Status)
             {
@@ -297,7 +304,7 @@ public class BattleSystem : MonoBehaviourPunCallbacks
                 }
             }
         }else{
-            yield return dialogBox.TypeDialog($"{sourceUnit.Pokemon.Base.Name} errou o ataque");
+            yield return dialogBox.TypeDialog($"{sourceUnit.Pokemon.Base.Name} errou o ataque.");
         }
     }
 

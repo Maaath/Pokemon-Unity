@@ -7,6 +7,7 @@ using Photon.Pun;
 public class PokemonParty : MonoBehaviour
 {
     [SerializeField] private List <Pokemon> pokemons;
+    [SerializeField] private List <Pokemon> wildPokemons;
     //private List <Pokemon> pokemons;
 
     private void Start()
@@ -18,11 +19,18 @@ public class PokemonParty : MonoBehaviour
             pokemon.Init();
             } 
         }
+        var i = UnityEngine.Random.Range(0,6);
+        wildPokemons[i].Init();
     }
 
     public Pokemon GetHelthyPokemon()
     {
         return pokemons.Where(x => x.HP > 0).FirstOrDefault();
+    }
+
+    public Pokemon GetHelthyWildPokemon()
+    {
+        return wildPokemons.Where(x => x.HP > 0).FirstOrDefault();
     }
 
     public List <Pokemon> ListPokemon ()

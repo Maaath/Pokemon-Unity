@@ -45,7 +45,7 @@
    </td>
    <td align="center">
      <a href="https://github.com/brunolobell">
-       <img src="https://user-images.githubusercontent.com/38335297/161171212-a2225762-cad1-4337-a180-bf5f9ea5e15b.PNG" width="100px;" alt="Bruno Picture"/><br>
+       <img src="https://user-images.githubusercontent.com/38335297/161174052-477dc548-67c7-4453-ba2d-38f94ea665fa.png" width="100px;" alt="Bruno Picture"/><br>
        <sub>
          <b>Bruno Lobell</b>
        </sub>
